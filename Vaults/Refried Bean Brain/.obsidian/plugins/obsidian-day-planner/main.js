@@ -4,7 +4,7 @@ var obsidian = require('obsidian');
 
 class DayPlannerSettings {
     constructor() {
-        this.customFolder = 'Day Planners';
+        this.customFolder = '0-Clutter/Day Planners';
         this.mode = DayPlannerMode.File;
         this.mermaid = false;
         this.notesToDates = [];

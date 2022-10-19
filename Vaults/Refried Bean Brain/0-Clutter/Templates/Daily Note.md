@@ -32,7 +32,7 @@ sort default(due, "") ASC
 ### Schedule
 ```dataview
 task
-from "0_Clutter/Day Planners/Day Planner-<% tp.date.now("YYYYMMDD") %>"
+from "0-Clutter/Day Planners/Day Planner-<% tp.date.now("YYYYMMDD") %>"
 
 ```
 ---

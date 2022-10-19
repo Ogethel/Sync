@@ -4,7 +4,7 @@
   "mermaid": true,
   "notesToDates": [
     {
-      "notePath": "Day Planners/Day Planner-20221019.md",
+      "notePath": "0-Clutter/Day Planners/Day Planner-20221019.md",
       "date": "Wed Oct 19 2022"
     }
   ],
@@ -12,5 +12,5 @@
   "circularProgress": false,
   "nowAndNextInStatusBar": true,
   "showTaskNotification": false,
-  "timelineZoomLevel": 3
+  "timelineZoomLevel": 4
 }

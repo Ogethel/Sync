@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiVipFill",
+      "RiCalendar2Line",
+      "RiSuitcaseLine",
+      "RiQuillPenFill",
+      "FasBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "00 - 每日日记": "RiCalendar2Line",
+  "10 - 人员管理": "RiVipFill",
+  "20 - 工作学习": "RiSuitcaseLine",
+  "30 - 阅读笔记": "RiBook2Fill",
+  "40 - Obsidian": "RiCopperDiamondLine",
+  "50 - 卡片知识": "RiQuillPenFill",
+  "00 - DailyNotes": "RiCalendar2Line",
+  "10 - People": "RiVipFill",
+  "20 - Work & Study": "RiSuitcaseLine",
+  "30 - Reading": "FasBook",
+  "50 - Zettelkasten": "RiQuillPenFill"
+}

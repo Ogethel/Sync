@@ -1,0 +1,35 @@
+---
+tags: [[tasks, inktober]]
+---
+- [x] Gargoyle 📆2022-10-01 ✅ 2022-10-01
+- [x] Scurry/Weapon 📆2022-10-02 ✅ 2022-10-03
+- [x] Bat/Glass 📆2022-10-03 ✅ 2022-10-03
+- [x] Scallop/Chains 📆2022-10-04 ✅ 2022-10-04
+- [x] Flame/Flame 📆2022-10-05 ✅ 2022-10-05
+- [x] Bouquet/Miscreant 📆2022-10-06 ✅ 2022-10-06
+- [ ] Trip/Lantern 📆2022-10-07
+- [ ] Match/Salute 📆2022-10-08
+- [ ] Nest/Buckle 📆2022-10-09
+- [ ] Crabby/Mists 📆2022-10-10
+- [ ] Eagle/Contract 📆2022-10-11
+- [ ] Forget/Anchor 📆2022-10-12
+- [ ] Kind/Silhouette 📆2022-10-13
+- [ ] Empty/Nobility 📆2022-10-14
+- [ ] Armadillo/Tea 📆2022-10-15
+- [ ] Fowl/Gravity 📆2022-10-16
+- [ ] Salty/Thrill 📆2022-10-17
+- [ ] Scrape/Dizzy 📆2022-10-18
+- [ ] Ponytail/Ocean 📆2022-10-19
+- [ ] Bluff/Glove 📆2022-10-20
+- [ ] Bad Dog/Architect 📆2022-10-21
+- [ ] Heist/Heist 📆2022-10-22
+- [ ] Booger/Balcony 📆2022-10-23
+- [ ] Fairy/Tassels 📆2022-10-24
+- [ ] Tempting/Judge 📆2022-10-25
+- [ ] Ego/Medallion 📆2022-10-26
+- [ ] Snack/Ascend 📆2022-10-27
+- [ ] Camping/Thugs 📆2022-10-28
+- [ ] Uh-Oh/Bubble 📆2022-10-29
+- [ ] Gear/Swirl 📆2022-10-30
+- [ ] Farm/Metal 📆2022-10-31
+

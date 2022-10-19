@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1d3ca82c0733103b",
+    "type": "split",
+    "children": [
+      {
+        "id": "787860745f40fcc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02aba5b2c0409aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e17863c588c33b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8834b814f709092d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e85e3a7a93dc67f5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6839b09972e13f57",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "568fd937e7a60046",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Template Test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8d9f0bbc18acd3d3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "02aba5b2c0409aa6",
+  "lastOpenFiles": [
+    "Aspect 1.md",
+    "Main Subject.md",
+    "Aspect 2.md",
+    "Template Test.md",
+    "Templates/Day Note Template.md",
+    "Day Planners/Day Planner-20220724.md"
+  ]
+}

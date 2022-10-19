@@ -1,0 +1,25 @@
+---
+tags: [ToDo, General]
+---
+- [x] Stain Shelves 📆2022-10-04 ✅ 2022-10-04
+- [x] Replace Spark Plug Wires 📆2022-10-03 ✅ 2022-10-03
+- [x] Dishes 📆2022-10-03 ✅ 2022-10-03
+- [x] Vacuum 📆2022-10-07
+- [x] Vacuum 📆2022-10-05
+- [ ] Finish Updating Temple Model-David 📆2022-10-07
+- [x] Study Topic-Prophet 📆2022-10-04
+- [ ] Draw Forest Spirt 📆2022-10-08
+- [ ] Model Forest Spirt 📆2022-10-08
+- [ ] Texture Forest Spirt 📆2022-10-08
+- [ ] Jewelry Pendant 📆2022-10-08
+- [ ] General Resume 📆2022-10-08
+- [ ] Jewelry Resume 📆2022-10-08
+- [ ] Send Work to Lillian 📆2022-10-08
+- [ ] Email Resume to Bruce 📆2022-10-07
+- [x] Replace Battery in Car 📅2022-10-18 ✅ 2022-10-18
+- [x] Dishes 📅2022-10-17 ✅ 2022-10-18
+- [x] Vacuum 📅2022-10-17 ✅ 2022-10-17
+- [x] General Cleanup 📅2022-10-17 ✅ 2022-10-18
+- [x] Finish Bushes 📅2022-10-17 ✅ 2022-10-18
+- [x] Shower 📅2022-10-17 ✅ 2022-10-18
+- [x] Find Deal on M.2 📅2022-10-18 ✅ 2022-10-18

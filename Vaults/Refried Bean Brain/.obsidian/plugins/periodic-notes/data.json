@@ -4,20 +4,20 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "0_Clutter/Templates/Daily Note.md",
-    "folder": "0_Clutter/Notes/Daily",
+    "template": "0-Clutter/Templates/Daily Note.md",
+    "folder": "0-Clutter/Notes/Daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "0_Clutter/Notes/Weekly",
+    "folder": "0-Clutter/Notes/Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "0_Clutter/Notes/Monthly",
+    "folder": "0-Clutter/Notes/Monthly",
     "enabled": true
   },
   "quarterly": {
@@ -28,7 +28,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "0_Clutter/Notes/Yearly",
+    "folder": "0-Clutter/Notes/Yearly",
     "enabled": true
   }
 }

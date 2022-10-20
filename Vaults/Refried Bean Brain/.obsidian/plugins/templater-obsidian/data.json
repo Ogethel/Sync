@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "0_Clutter/Templates",
+  "templates_folder": "0-Clutter/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "0_Clutter/Day Planners",
-      "template": "0_Clutter/Templates/Day Planners/DP_DayOf.md"
+      "folder": "0-Clutter/Day Planners",
+      "template": "0-Clutter/Templates/Day Planners/DP_DayOf.md"
     },
     {
       "folder": "",

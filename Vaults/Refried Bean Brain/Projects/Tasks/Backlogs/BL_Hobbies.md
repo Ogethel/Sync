@@ -5,7 +5,7 @@ tags: [ToDo, Backlog, Hobbies]
 --- 
 ## Mini Figures
 ### Printing
-- [ ] Print Spencer the Monster Owl 📆2022-10-19
+- [ ] Print Spencer the Monster Owl 📆2022-10-20
 
 ### Painting
 - [ ] Buy an Airbrush Compressor 📆

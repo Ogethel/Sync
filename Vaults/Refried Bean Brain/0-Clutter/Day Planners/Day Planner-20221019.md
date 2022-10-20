@@ -15,7 +15,14 @@ status:
 - [x] 08:15 Read Scriptures in Bed
 - [x] 08:30 Feed Babies
 - [x] 09:00 Walk Worf
-- [ ] 09:30 Read Scriptures
+- [x] 09:30 Read Scriptures ✅ 2022-10-19
+- [ ] 11:15 Shower
+- [x] 12:00 Go to Gwenn's ✅ 2022-10-19
+- [x] 13:00 Work ✅ 2022-10-19
+- [x] 16:00 Pick up Marina ✅ 2022-10-19
+- [ ] 17:00 Clean Out Marina
+- [ ] 17:30 Start Cleaning House
+- [ ] 19:00 Work on Job applications
 - [ ] 22:00 END
 
 ---

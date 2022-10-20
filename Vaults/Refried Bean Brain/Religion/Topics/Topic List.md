@@ -1,10 +1,10 @@
 # Question Topic List
 ## Current/Revised
 
-1. Kirtland Temple, Related ()
-2. Church History, Related ()
+1. Kirtland Temple, Related (2, 5, 6, 7, 8, 9, 10, 12, 13)
+2. Church History, Related (all)
 	1. Organization of Church, JH Era vs Modern, Related (1, 3)
-	2. Nuance of Succession 
+	2. Nuance of Succession (11)
 		1. Purpose of the 12 during Joseph Smith's life
 		2. Process followed by Joseph while alive
 		3. Process observed in the Fathers
@@ -12,10 +12,10 @@
 		5. Hyrum & Patriarchal Priesthood
 		6. Brigham's assumption on succession
 		7. Other Claims
-	3. Hyrum Smith - Birthright, Related (1, 2,)
-	4. Salt Sermon, Brig, Related ()
-4. Second Comforter, Related ()
-5. Testimony, Related ()
+	3. Hyrum Smith - Birthright, Related (1, 7, 10, 11)
+	4. Salt Sermon, Brig, Related (6)
+3. Second Comforter, Related (all)
+4. Testimony, Related (3, 6, 7, 8, 9, 11)
 	1. Temple Questions, Testimony of;
 		1. God
 		2. Jesus Christ
@@ -23,13 +23,13 @@
 		4. Atonement 
 		5. Restoration
 	2. What qualifies as that?
-6. Covenants, Related ()
-7. The Conditions of Salvation, Related ()
-8. The Fathers, Related ()
-9. Prophecy of Elijah, Related ()
-10. Zion, Related ()
-11. Priesthood, Related ()
-12. Prophets, Related ()
+5. Covenants, Related ()
+6. The Conditions of Salvation, Related ()
+7. The Fathers, Related ()
+8. Prophecy of Elijah, Related ()
+9. Zion, Related ()
+10. Priesthood, Related ()
+11. Prophets, Related ()
 	1. Definition
 	2. Kinds
 	3. Qualifications
@@ -37,10 +37,10 @@
 	5. Outside Church Structure
 	6. One on the Earth holding this Priesthood
 	7. Denver S.
-13. Keys, Related ()
-14. Afterlife, Related ()
-15. Angels, Related ()
-16. BoM, as a warning, Related ()
+12. Keys, Related ()
+13. Afterlife, Related ()
+14. Angels, Related ()
+15. BoM, as a warning, Related ()
 
 ## 1000 Foot View
 With in the context of LDS religious frame work of belief and worship, there are elements of the religion's history and founding texts & teachings that have largely been glossed over, ignored, forgotten, or out right rejected. The fact of the matter is that the religion is not and has not stayed the same and while it seems to me that this admission itself ought to seem as a giant red flag with the phrase "Look at me, I require somber thought" written upon it to all saints who even glance its way, the reality is that it does not. As for myself, however, it is hard to see anything else.
@@ -59,23 +59,6 @@ Temple Convents are intended to produce faith in the individual sufficient to ha
 The Fathers we must connect to via the Prophecy of Elijah are those named in scripture as Adam, Abraham, and Enoch
 The priesthood correlates to a heavenly personal association with men, Jesus Christ, and the Father 
 The gospel must go to the remnant of the Laminates by the "Works" of the gentiles before Zion can be established in the last day and Joseph received a revelation to go to the rocky mountains to preach unto the Indians but went to Liberty Jail instead after the saints were angry with him as they interpreted that as Joseph running away
-
-
-## Old
-Continuity of the Church-Further Light and Knowledge (Inconsistent)  
-Is there only 1 prophet per people (Scriptural Model)  
-Definition and function of a prophet  
-Potential for prophets outside of the church  
-Is God Bound to the prophet and the church or is the church and prophets dependent upon God  
-God's plan for the Second Coming  
-Kirtland Temple - Finish=prosper VS Not=Curse  
-Definition and Function of Priesthood  
-Scripture Project  
-What qualifies as keys Dominions, principalities  
-How 12 apostles work keys & only 1 Prophet wise  
-Was Brigham Young a Prophet/Did he make that claim  
-Lectures on Faith (Removal)  
-To whom are the warnings of the BoM addressed (Say, for example-2nd Nephi 1: 15: 10 or Alma 31: 18-22)
 
 ## Temple Recommend Questions
 - Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?

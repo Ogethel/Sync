@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-19.md",
+                "file": "Religion/Topics/Topic List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c408ae09db31248e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ead9fad98d87e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Clutter/Notes/Daily/2022-10-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-19.md"
+                "file": "Projects/Tasks/Backlogs/BL_Career.md"
               }
             }
           },
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-19.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-19.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,17 +226,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "039c478fca3c6926",
+  "active": "c408ae09db31248e",
   "lastOpenFiles": [
-    "Religion/Sources/DS/40yrs-Mormonism/L3-Logan_09-29-2013.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L7-Ephraim_06-28-2014.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L10-Mesa_09-09-2014.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L9-St. George_07-26-2014.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L8-Las Vegas_07-25-2014.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L6-Grand Junction_04-12-2014.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L1-Boise_09-10-2013.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L5-Orem_11-02-2013.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L4-Centerville_10-06-2013.md",
-    "Religion/Sources/DS/40yrs-Mormonism/L2-Idaho Falls_09-28-2013.md"
+    "Projects/Tasks/Backlogs/BL_Home.md",
+    "Projects/Tasks/Backlogs/BL_Career.md",
+    "Projects/Immortal Mysts/Immortal Mysts - Dashboard.md",
+    "Religion/Topics/Topic List.md",
+    "0-Clutter/Notes/Daily/2022-10-20.md",
+    "0-Clutter/Notes/Daily/2022-10-19.md",
+    "0-Clutter/Templates/Daily Note.md",
+    "Day Planners/Day Planner-20221020.md",
+    "Day Planners/Day Planner-20221019.md",
+    "0-Clutter/Day Planners/Day Planner-20221019.md"
   ]
 }

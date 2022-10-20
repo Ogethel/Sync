@@ -1,6 +1,8 @@
 
 D&C 124 = Call for the Saints to Construct Nauvoo Temple
 
+[[11-02-2013_Cursings Instead of Blessings]]
+
 In the January 1841 revelation to Joseph Smith the Lord stated “the fulness of the priesthood” had been “lost unto you, or which [The Lord] hath taken away.” ([D&C 124: 28](http://www.lds.org/scriptures/dc-testament/dc/124.28).) To “restore” it the Lord needed to personally come to a Temple that He was required to be built within a limited time frame. The length of the time given to accomplish the building was not specified by a date certain. Instead the Lord said He would give to the Saints “sufficient time to build a house unto me.” ([D&C 124: 31](http://www.lds.org/scriptures/dc-testament/dc/124.31?lang=eng#30).) In the time between January 1841 and the martyrdom of Joseph and Hyrum Smith in June 1844, the Nauvoo Temple was not completed. The walls were only complete to the second floor.
 
 The absence of any date for “sufficient time” to build the Temple leaves that an open question. Traditionally, we believe that extended until sometime following the departure of the Saints in February 1846. A small group remained behind and eventually the Temple was dedicated. But these are undisputed facts:

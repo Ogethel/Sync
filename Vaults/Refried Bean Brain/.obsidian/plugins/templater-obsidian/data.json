@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "0-Clutter/Day Planners",
+      "folder": "Day Planners",
       "template": "0-Clutter/Templates/Day Planners/DP_DayOf.md"
     },
     {

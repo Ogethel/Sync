@@ -32,12 +32,13 @@ tags: [ToDo, Backlog, Home]
 - [ ] Sweep 🔁 every week ⌛ 2022-10-24 📆 2022-10-25
 - [ ] Vacuum 🔁 every week ⌛ 2022-10-22 📆 2022-10-24
 - [ ] Dishes '1' 🔁 every week ⌛ 2022-10-25 📆 2022-10-26
-- [ ] Dishes '2' 🔁 every week ⌛ 2022-10-20 📆 2022-10-21
+- [x] Dishes '2' 🔁 every week ⌛ 2022-10-20 📆 2022-10-21 ✅ 2022-10-21
 - [ ] Mop 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
 - [ ] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
 
 ### None Scheduled
-- [ ] Unpack from Watching Siblings
-- [ ] Run to the Grocery Store
+- [x] Unpack from Watching Siblings 📆2022-10-21 ✅ 2022-10-21
+- [x] Run to the Grocery Store 📆2022-10-21 ✅ 2022-10-21
+- [ ] Schedule Maintenance with HOA 📆2022-10-21
 
  Apply to 1 Game Industry Related Job 📆2022-10-22

@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md",
+                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1dc8d6989075604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Clutter/Notes/Daily/2022-10-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e54931ecc8486f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Clutter/Notes/Daily/2022-10-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-20.md",
+                "file": "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md"
+                "file": "0-Clutter/Notes/Daily/2022-10-21.md"
               }
             }
           },
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,17 +250,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c408ae09db31248e",
+  "active": "57e54931ecc8486f",
   "lastOpenFiles": [
-    "Projects/Tasks/Backlogs/BL_Home.md",
-    "Projects/Tasks/Backlogs/BL_Career.md",
+    "Day Planners/Day Planner-20221021.md",
+    "0-Clutter/Notes/Daily/2022-10-21.md",
     "Projects/Immortal Mysts/Immortal Mysts - Dashboard.md",
-    "Religion/Topics/Topic List.md",
+    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
+    "Projects/Tasks/Backlogs/BL_Career.md",
     "0-Clutter/Notes/Daily/2022-10-20.md",
-    "0-Clutter/Notes/Daily/2022-10-19.md",
-    "0-Clutter/Templates/Daily Note.md",
-    "Day Planners/Day Planner-20221020.md",
-    "Day Planners/Day Planner-20221019.md",
-    "0-Clutter/Day Planners/Day Planner-20221019.md"
+    "Projects/Tasks/Backlogs/BL_Jewelry.md",
+    "Religion/Topics/Topic List.md",
+    "Projects/Tasks/Backlogs/BL_Personal.md",
+    "Projects/Tasks/Backlogs/BL_Hobbies.md"
   ]
 }

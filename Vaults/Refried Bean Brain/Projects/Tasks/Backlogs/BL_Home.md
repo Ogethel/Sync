@@ -5,7 +5,7 @@ tags: [ToDo, Backlog, Home]
 ## Cars
 ### Obi
 - [ ] Replace Head Cover Gasket ⌛2022-10-20 📆2022-10-22
-- [ ] Replace Sparkplugs 📆2022-10-20
+- [x] Replace Sparkplugs 📆2022-10-20 ✅ 2022-10-21
 
 ### Marina
 - [x] Pick up and Pay for Marina 📆2022-10-19 ✅ 2022-10-19

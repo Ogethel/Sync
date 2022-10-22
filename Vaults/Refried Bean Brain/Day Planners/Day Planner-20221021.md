@@ -20,8 +20,8 @@ status:
 - [x] 11:00 Dishes
 - [x] 12:00 Store Run
 - [x] 14:00 Lunch
-- [ ] 14:30 Computer Tasks
-- [ ] 17:00 Wild Ginger
+- [x] 14:30 Computer Tasks
+- [x] 17:00 Wild Ginger
 - [ ] 22:00 END
 
 ---

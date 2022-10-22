@@ -4,6 +4,18 @@ tags: [ToDo, Backlog, Mysts]
 
 # Administration
 ## Planning
+### General
+- [ ] Review Clickup tasks
+- [ ] Update Obsidian tasks from Clickup
+- [ ] [[Camera-Angle]] - Record Specifications
+### Game Mechanics
+### Story Concepts
+- [ ] Decide Races and Cultures
+- [ ] Decide Fauna
+- [ ] Specify Planetary Conditions
+
+## Programs and Software Workflow Info
+## Game Design Document
 ## Writing
 
 # 2D Asset Production
@@ -25,6 +37,7 @@ tags: [ToDo, Backlog, Mysts]
 ## Level Testing
 ## Asset Replacement
 ## Level Tool Development
+- [ ] [[Procedural Level Generation]] - Record Initial Research
 
 # Coding & Game Logic
 ## Tool Scripting

@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md"
+                "file": "0-Clutter/Notes/Daily/2022-10-24.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,15 +285,15 @@
   },
   "active": "02c80c69d9de1ebe",
   "lastOpenFiles": [
-    "Projects/Dashboards/Project Workflow Test.md",
+    "Day Planners/Day Planner-20221024.md",
+    "0-Clutter/Notes/Daily/2022-10-24.md",
     "Projects/Dashboards/Unorganized Backlog.md",
+    "Projects/Dashboards/Project Workflow Test.md",
     "Projects/Immortal Mysts/Imps and Robo Robbers.md",
     "Data/Personal/Birthday Present Ideas.md",
     "0-Clutter/Templates/Daily Note.md",
     "Projects/Jewelry Production/Pendants/Skull-Arrowhead.md",
     "Projects/Jewelry Production/Pendant Designs.md",
-    "0-Clutter/Notes/Daily/2022-10-23.md",
-    "Day Planners/Day Planner-20221023.md",
-    "Projects/Immortal Mysts/Game Design Doc/Specifications/AI.md"
+    "0-Clutter/Notes/Daily/2022-10-23.md"
   ]
 }

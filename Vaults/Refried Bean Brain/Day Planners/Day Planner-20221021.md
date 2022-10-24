@@ -20,9 +20,9 @@ status:
 - [x] 11:00 Dishes
 - [x] 12:00 Store Run
 - [x] 14:00 Lunch
-- [x] 14:30 Computer Tasks
-- [x] 17:00 Wild Ginger
-- [ ] 22:00 END
+- [x] 14:30 Computer Tasks ✅ 2022-10-22
+- [x] 17:00 Wild Ginger ✅ 2022-10-22
+- [x] 22:00 END ✅ 2022-10-22
 
 ---
 [[Day Planner-20221020]]|[[Day Planner-20221022]]

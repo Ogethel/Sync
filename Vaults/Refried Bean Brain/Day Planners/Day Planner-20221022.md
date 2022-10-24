@@ -11,11 +11,11 @@ status:
 
 ---
 ### Schedule
-- [ ] 08:00 Wake Up
-- [ ] 08:15 Read Scriptures in Bed
-- [ ] 08:30 Feed Babies
-- [ ] 09:00 Walk Worf
-- [ ] 09:30 Read Scriptures
+- [x] 08:00 Wake Up
+- [x] 08:15 Read Scriptures in Bed
+- [x] 08:30 Feed Babies
+- [x] 09:00 Walk Worf
+- [x] 09:30 Read Scriptures
 - [ ] 22:00 END
 
 ---
@@ -24,9 +24,9 @@ status:
 
 ---
 
-Note Creation Date: 2022-10-22 00:00
-Note Modification Date: Saturday 22nd October 2022 00:00:01 
+Note Creation Date: 2022-10-22 19:46
+Note Modification Date: Saturday 22nd October 2022 19:46:53 
 
 --- 
-> Start where you are. Use what you have. Do what you can.
-> — <cite>Arthur Ashe</cite>
+> The secret of getting ahead is getting started.
+> — <cite>Mark Twain</cite>

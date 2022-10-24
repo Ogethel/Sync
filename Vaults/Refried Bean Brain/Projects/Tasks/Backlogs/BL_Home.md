@@ -5,7 +5,7 @@ tags: [ToDo, Backlog, Home]
 ## Cars
 ### Obi
 - [ ] Replace Head Cover Gasket ⌛2022-10-20 📆2022-10-22
-- [x] Replace Sparkplugs 📆2022-10-20 ✅ 2022-10-21
+- [x] Replace Sparkplugs 📆2022-10-20
 
 ### Marina
 - [x] Pick up and Pay for Marina 📆2022-10-19 ✅ 2022-10-19
@@ -36,9 +36,25 @@ tags: [ToDo, Backlog, Home]
 - [ ] Mop 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
 - [ ] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
 
-### None Scheduled
+### Upcoming Events
+- [ ] Clean House for Bookshelves 📆2022-10-26
+- [ ] Maryn Performance ⌛2022-10-28 📆2022-10-29
+- [ ] Move Furniture 📆2022-10-28
+- [ ] Halloween Party Mt. P 📆2022-10-29
+- [ ] Dinner w/Missionaries 📆2022-10-30
+- [ ] Brandon Returns 📆2022-10-31
+- [ ] Jessa's Gotcha Day Presents 📆2022-11-01
+- [ ] Jessa's Gotcha Day Party 📆2022-11-04
+
+### To Do List
 - [x] Unpack from Watching Siblings 📆2022-10-21 ✅ 2022-10-21
 - [x] Run to the Grocery Store 📆2022-10-21 ✅ 2022-10-21
-- [ ] Schedule Maintenance with HOA 📆2022-10-21
+- [x] Schedule Maintenance with HOA 📆2022-10-21 ✅ 2022-10-23
+- [x] Check to See if Disposal has Reset Button 📆2022-10-23 ✅ 2022-10-23
+- [ ] Laundry 📆2022-10-23
+- [ ] Shower 📆2022-10-23
+- [ ] Vacuum 📆2022-10-23
+- [ ] Organize Floors 📆2022-10-23
+- [x] Help Cook 📆2022-10-23 ✅ 2022-10-23
 
  Apply to 1 Game Industry Related Job 📆2022-10-22

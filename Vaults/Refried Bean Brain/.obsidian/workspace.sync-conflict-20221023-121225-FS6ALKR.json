@@ -4,109 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "54ef31c89b20eec7",
+        "id": "4900109bedf867e3",
         "type": "tabs",
-        "dimension": 15.625,
         "children": [
           {
-            "id": "6706cb08d57b0c3d",
+            "id": "c408ae09db31248e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20221023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65d7680f136441b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c51bc7913cd57f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Jewelry Production/Pendants/Skull-Arrowhead.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "8a5de0b20d2da22e",
+        "id": "54ef31c89b20eec7",
         "type": "tabs",
-        "dimension": 84.375,
         "children": [
           {
-            "id": "57e54931ecc8486f",
+            "id": "c388b61a19dcfe64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Personal/Birthday Present Ideas.md",
+                "file": "Projects/Tasks/Backlogs/BL_Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbbe64d033ebbaf5",
+            "id": "c8c311e7cc3bc87e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Immortal Mysts/Imps and Robo Robbers.md",
+                "file": "Projects/Dashboards/D-Past Due & No Date.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "02c80c69d9de1ebe",
+            "id": "039c478fca3c6926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34ead9fad98d87e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e35612efebfa584a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Personal.md",
+                "file": "Religion/Topics/Topic List.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md"
+                "file": "Projects/Dashboards/D-Past Due & No Date.md"
               }
             }
           },
@@ -251,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md",
+                "file": "Projects/Dashboards/D-Past Due & No Date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dashboards/Unorganized Backlog.md",
+                "file": "Projects/Dashboards/D-Past Due & No Date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,17 +232,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "02c80c69d9de1ebe",
+  "active": "c8c311e7cc3bc87e",
   "lastOpenFiles": [
-    "Projects/Dashboards/Project Workflow Test.md",
-    "Projects/Dashboards/Unorganized Backlog.md",
-    "Projects/Immortal Mysts/Imps and Robo Robbers.md",
-    "Data/Personal/Birthday Present Ideas.md",
-    "0-Clutter/Templates/Daily Note.md",
-    "Projects/Jewelry Production/Pendants/Skull-Arrowhead.md",
-    "Projects/Jewelry Production/Pendant Designs.md",
-    "0-Clutter/Notes/Daily/2022-10-23.md",
-    "Day Planners/Day Planner-20221023.md",
-    "Projects/Immortal Mysts/Game Design Doc/Specifications/AI.md"
+    "Projects/Tasks/Backlogs/BL_Home.md",
+    "0-Clutter/Notes/Daily/2022-10-22.md",
+    "Day Planners/Day Planner-20221022.md",
+    "Religion/Topics/Topic List.md",
+    "Projects/Immortal Mysts/World Building/IM-Creatures.md",
+    "Projects/Immortal Mysts/World Building/IM-Planet.md",
+    "Projects/Immortal Mysts/World Building/IM-Races.md",
+    "Projects/Immortal Mysts/Game Design Doc/Specifications/Camera-Angle.md",
+    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
+    "0-Clutter/Notes/Daily/2022-10-20.md"
   ]
 }

@@ -42,7 +42,7 @@ tags: [ToDo, Backlog, Mysts]
 # Coding & Game Logic
 ## Tool Scripting
 ## Game Mechanics - Concepting
-- [ ] Create a Sandbox Project 📆2022-10-21
+- [x] Create a Sandbox Project 📆2022-10-21 ✅ 2022-10-22
 - [ ] This should be a task as well
 - [ ] I would have hoped this would work
 

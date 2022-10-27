@@ -1,5 +1,5 @@
 ---
-tags: [DailyPlanner, <% tp.date.now("MMMM") %>, <% moment().format("YYYY") %>-W<% moment().add(1, "week").format("WW") %>]
+tags: [DailyPlanner, <% tp.date.now("MMMM", 0, tp.file.title, "YYYYMMDD") %>, <% tp.date.now("YYYY", 0, tp.file.title, "YYYYMMDD") %>-W<% tp.date.now("WW", 7, tp.file.title, "YYYYMMDD") %>]
 category:
 status:
 ---
@@ -7,7 +7,7 @@ status:
 ## Daily Planner - <% tp.date.now("dddd Do MMMM YYYY") %>
 
 ---
-[[<% tp.date.now("YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM") %>]] | [[<% moment().format("YYYY") %>-W<% moment().add(1, "week").format("WW") %>]]
+[[<% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYYMMDD") %>]] | [[<% tp.date.now("YYYY-MM", 0, tp.file.title, "YYYYMMDD") %>]] | [[<% tp.date.now("YYYY", 0, tp.file.title, "YYYYMMDD") %>-W<% tp.date.now("WW", 7, tp.file.title, "YYYYMMDD") %>]]
 
 ---
 ### Schedule
@@ -19,8 +19,8 @@ status:
 - [ ] 22:00 END
 
 ---
-[[Day Planner-<%tp.date.now("YYYYMMDD", -1)%>]]|[[Day Planner-<%tp.date.now("YYYYMMDD", 1)%>]]
-[[Day Planner-<% tp.date.now("YYYYMMDD") %>]]
+[[Day Planner-<% tp.date.now("YYYYMMDD", -1, tp.file.title, "YYYYMMDD") %>]]|[[Day Planner-<% tp.date.now("YYYYMMDD", 1, tp.file.title, "YYYYMMDD") %>]]
+[[Day Planner-<% tp.date.now("YYYYMMDD", 0, tp.file.title, "YYYYMMDD") %>]]
 
 ---
 

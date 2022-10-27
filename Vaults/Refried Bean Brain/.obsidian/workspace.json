@@ -6,7 +6,7 @@
       {
         "id": "54ef31c89b20eec7",
         "type": "tabs",
-        "dimension": 15.625,
+        "dimension": 54.21875000000001,
         "children": [
           {
             "id": "6706cb08d57b0c3d",
@@ -14,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20221023.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "65d7680f136441b4",
+            "id": "a0e1391577c583c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-23.md",
+                "file": "Day Planners/Day Planner-20221025.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Jewelry Production/Pendants/Skull-Arrowhead.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
       {
         "id": "8a5de0b20d2da22e",
         "type": "tabs",
-        "dimension": 84.375,
+        "dimension": 45.78125,
         "children": [
           {
             "id": "57e54931ecc8486f",
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-24.md"
+                "file": "0-Clutter/Notes/Daily/2022-10-27.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-24.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-24.md",
+                "file": "0-Clutter/Notes/Daily/2022-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,17 +283,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "02c80c69d9de1ebe",
+  "active": "c51bc7913cd57f11",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20221024.md",
+    "0-Clutter/Notes/Daily/2022-10-26.md",
+    "0-Clutter/Notes/Daily/2022-10-25.md",
     "0-Clutter/Notes/Daily/2022-10-24.md",
-    "Projects/Dashboards/Unorganized Backlog.md",
-    "Projects/Dashboards/Project Workflow Test.md",
-    "Projects/Immortal Mysts/Imps and Robo Robbers.md",
-    "Data/Personal/Birthday Present Ideas.md",
-    "0-Clutter/Templates/Daily Note.md",
+    "0-Clutter/Notes/Daily/2022-10-23.md",
+    "0-Clutter/Notes/Daily/2022-10-22.md",
     "Projects/Jewelry Production/Pendants/Skull-Arrowhead.md",
-    "Projects/Jewelry Production/Pendant Designs.md",
-    "0-Clutter/Notes/Daily/2022-10-23.md"
+    "Day Planners/Day Planner-20221023.md",
+    "Day Planners/Day Planner-20221024.md",
+    "Day Planners/Day Planner-20221024.sync-conflict-20221026-005001-4TH2635.md",
+    "Day Planners/Day Planner-20221026.md"
   ]
 }

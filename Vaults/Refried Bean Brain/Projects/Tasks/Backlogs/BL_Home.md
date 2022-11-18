@@ -1,32 +1,35 @@
 ---
 tags: [ToDo, Backlog, Home]
 ---
+[[BL_HUB]]
+# Home
 ---
 ## Cars
 ### Obi
-- [ ] Replace Head Cover Gasket ⌛2022-10-20 📆2022-10-22
+- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2022-11-12
+- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2022-11-12
 - [x] Replace Sparkplugs 📆2022-10-20
 
 ### Marina
 - [x] Pick up and Pay for Marina 📆2022-10-19 ✅ 2022-10-19
-- [ ] Clean out Marina in Prep for Scrap 📆 2022-10-20
-- [ ] Take Marina to the Scrap Yard for Parts 📆 2022-10-24
-- [ ] List Marina for Sale for Parts 📆 2022-10-20
-- [ ] Save up $3000 for a new Car 📆
+- [x] Clean out Marina in Prep for Scrap 📆 2022-10-20
+- [x] Take Marina to the Scrap Yard for Parts 📆 2022-10-24
+- [x] List Marina for Sale for Parts 📆 2022-10-20
+- [x] Save up $3000 for a new Car 📆
 	- [x] 1000
-	- [ ] 2000
-	- [ ] 3000
-- [ ] Comb Through Listing for a Used BUT Reliable Car 📆
-- [ ] Schedule and Meet with Sellers 📆
-- [ ] Purchase a new Car 📆
+	- [x] 2000 ✅ 2022-11-02
+	- [x] 3000
+- [x] Comb Through Listing for a Used BUT Reliable Car 📆
+- [x] Schedule and Meet with Sellers 📆
+- [x] Purchase a new Car 📆
 
 ## House Upkeep
 ### Daily
-- [ ] Wake Up
-- [ ] Scriptures in Bed
-- [ ] Feed Worf and Geordie
-- [ ] Walk Worf w/Michaella
-- [ ] Scripture Study
+- [x] Wake Up ✅ 2022-11-02
+- [x] Scriptures in Bed ✅ 2022-11-02
+- [x] Feed Worf and Geordie ✅ 2022-11-02
+- [x] Walk Worf w/Michaella ✅ 2022-11-02
+- [x] Scripture Study ✅ 2022-11-02
 
 ### Weekly
 - [ ] Sweep 🔁 every week ⌛ 2022-10-24 📆 2022-10-25
@@ -37,24 +40,31 @@ tags: [ToDo, Backlog, Home]
 - [ ] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
 
 ### Upcoming Events
-- [ ] Clean House for Bookshelves 📆2022-10-26
-- [ ] Maryn Performance ⌛2022-10-28 📆2022-10-29
-- [ ] Move Furniture 📆2022-10-28
-- [ ] Halloween Party Mt. P 📆2022-10-29
-- [ ] Dinner w/Missionaries 📆2022-10-30
-- [ ] Brandon Returns 📆2022-10-31
-- [ ] Jessa's Gotcha Day Presents 📆2022-11-01
-- [ ] Jessa's Gotcha Day Party 📆2022-11-04
+- [x] Clean House for Bookshelves 📆2022-10-26
+- [x] Maryn Performance ⌛2022-10-28 📆2022-10-29
+- [x] Move Furniture 📆2022-10-28
+- [x] Halloween Party Mt. P 📆2022-10-29 ✅ 2022-11-02
+- [x] Dinner w/Missionaries 📆2022-10-30 ✅ 2022-11-02
+- [x] Brandon Returns 📆2022-10-31 ✅ 2022-11-02
+- [x] Jessa's Gotcha Day Presents 📆2022-11-01 ✅ 2022-10-29
+- [x] Jessa's Gotcha Day Party 📆2022-11-05 ✅ 2022-11-05
+- [x] Gwenn's Family Planning 📆2022-11-06 ✅ 2022-11-06
 
 ### To Do List
 - [x] Unpack from Watching Siblings 📆2022-10-21 ✅ 2022-10-21
 - [x] Run to the Grocery Store 📆2022-10-21 ✅ 2022-10-21
 - [x] Schedule Maintenance with HOA 📆2022-10-21 ✅ 2022-10-23
 - [x] Check to See if Disposal has Reset Button 📆2022-10-23 ✅ 2022-10-23
-- [ ] Laundry 📆2022-10-23
-- [ ] Shower 📆2022-10-23
-- [ ] Vacuum 📆2022-10-23
-- [ ] Organize Floors 📆2022-10-23
+- [x] Laundry 📆2022-10-23
+- [x] Shower 📆2022-10-23
+- [x] Vacuum 📆2022-10-23
+- [x] Organize Floors 📆2022-10-23
 - [x] Help Cook 📆2022-10-23 ✅ 2022-10-23
+- [x] Unload Dishes 📆2022-11-06 ✅ 2022-11-06
+- [x] Wash Dishes 📆2022-11-06 ✅ 2022-11-06
+- [x] Load Dishes 📆2022-11-06 ✅ 2022-11-06
+- [x] Finish Laundry 📆2022-11-06 ✅ 2022-11-06
+- [x] Fold Laundry 📆2022-11-06 ✅ 2022-11-06
+- [ ] Vacuum 📆2022-11-10
 
  Apply to 1 Game Industry Related Job 📆2022-10-22

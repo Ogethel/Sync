@@ -1,8 +1,9 @@
 ---
 tags: [ToDo, Backlog, Mysts]
 ---
-
+[[BL_HUB]]
 # Administration
+---
 ## Planning
 ### General
 - [ ] Review Clickup tasks

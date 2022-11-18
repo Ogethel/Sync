@@ -16,6 +16,7 @@ status:
 - [ ] 08:30 Feed Babies
 - [ ] 09:00 Walk Worf
 - [ ] 09:30 Read Scriptures
+- [ ] 21:30 Record Journal
 - [ ] 22:00 END
 
 ---

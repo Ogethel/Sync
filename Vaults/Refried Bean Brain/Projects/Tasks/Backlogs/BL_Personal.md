@@ -1,6 +1,12 @@
 ---
 tags: [ToDo, Backlog, Personal]
 ---
+[[BL_HUB]]
+# Personal
+---
+## Management
+- [ ] Organize a Weekly Template 📆2022-11-13
+- [ ] Organize a Monthly Template 📆2022-11-13
 ## Professional
 ### Jewelry
 - [ ] Work on Jewelry Design - 1 hr 📆2022-10-23
@@ -12,10 +18,11 @@ tags: [ToDo, Backlog, Personal]
 - [ ] Work on Mysts - 1hr 📆2022-10-23
 
 #### Portfolio Website
-- [ ] Upload to GitPages 📆2022-10-23
+- [x] Upload to GitPages 📆2022-10-23 ✅ 2022-11-02
 
 ## Nanowrimo
-- [ ] Review Rules with Mich 📆2022-10-23
+- [x] Review Rules with Mich 📆2022-10-23
+- [ ] Write Daily
 
 ## Religion
 ### To Do

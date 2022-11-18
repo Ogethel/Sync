@@ -163,7 +163,269 @@
         "width": 304.5
       },
       "active": "c388b61a19dcfe64"
+    },
+    "Daily Management": {
+      "main": {
+        "id": "72197b68d86976d5",
+        "type": "split",
+        "children": [
+          {
+            "id": "b3217683593e8c31",
+            "type": "tabs",
+            "dimension": 46.10726643598616,
+            "children": [
+              {
+                "id": "d9ef81347932daed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Data/Code Ninjas/1-Yellow/Y_Projects.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7793ff2e820c07f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Dashboards/Inktober 2022.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "89f4175a13b1636a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-Clutter/Notes/Daily/2022-11-18.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "7380ba77a25e81a8",
+            "type": "tabs",
+            "dimension": 53.89273356401384,
+            "children": [
+              {
+                "id": "e83796268a76e29c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "10d60b28540d76c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Data/Code Ninjas/HUB-Code Ninjas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1f5e85f2615bbacf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Nanowrimo/Phaeros.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "661b2b1d0d8aeb6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Dashboards/D-Past Due & No Date.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f105771d4817877a",
+        "type": "split",
+        "children": [
+          {
+            "id": "0eee567bbec321e3",
+            "type": "tabs",
+            "dimension": 62.337662337662344,
+            "children": [
+              {
+                "id": "7b4afa385221645f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "29f25f6fcd71d1d2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#2022-W45",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "5a4b06f5427e0169",
+            "type": "tabs",
+            "dimension": 37.66233766233766,
+            "children": [
+              {
+                "id": "5c2f656910b54cc0",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "1b751c4fef7fbf74",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "4a4820d1ea45f14c",
+        "type": "split",
+        "children": [
+          {
+            "id": "c0368c7fa9443792",
+            "type": "tabs",
+            "dimension": 34.02843601895734,
+            "children": [
+              {
+                "id": "b1caa7e8f49a1c40",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "08895c1ad07949dd",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "282389223c476159",
+            "type": "tabs",
+            "dimension": 65.97156398104265,
+            "children": [
+              {
+                "id": "70e2dcfe05a95db7",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72969e53e17b490c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-Clutter/Notes/Daily/2022-11-18.md"
+                  }
+                }
+              },
+              {
+                "id": "05b722658f3653c6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-Clutter/Notes/Daily/2022-11-18.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a0f275118d6ace9f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-Clutter/Notes/Daily/2022-11-18.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 286.5
+      },
+      "active": "89f4175a13b1636a"
     }
   },
-  "active": "2022 Fall Home"
+  "active": "Daily Management"
 }

@@ -10,7 +10,7 @@
   ],
   "completePastItems": true,
   "circularProgress": false,
-  "nowAndNextInStatusBar": true,
+  "nowAndNextInStatusBar": false,
   "showTaskNotification": false,
   "timelineZoomLevel": 4
 }

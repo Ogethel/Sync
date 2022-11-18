@@ -4,121 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "54ef31c89b20eec7",
+        "id": "b3217683593e8c31",
         "type": "tabs",
-        "dimension": 54.21875000000001,
         "children": [
           {
-            "id": "6706cb08d57b0c3d",
+            "id": "89f4175a13b1636a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-26.md",
+                "file": "0-Clutter/Notes/Daily/2022-11-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0e1391577c583c2",
+            "id": "c2bdac5116bcc407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20221025.md",
+                "file": "App.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c51bc7913cd57f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8a5de0b20d2da22e",
-        "type": "tabs",
-        "dimension": 45.78125,
-        "children": [
-          {
-            "id": "57e54931ecc8486f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Personal/Birthday Present Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbbe64d033ebbaf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Immortal Mysts/Imps and Robo Robbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c80c69d9de1ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34ead9fad98d87e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e35612efebfa584a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Personal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd5d21d517a93b4d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
               }
             }
           }
@@ -135,7 +44,7 @@
       {
         "id": "0eee567bbec321e3",
         "type": "tabs",
-        "dimension": 73.2701421800948,
+        "dimension": 62.337662337662344,
         "children": [
           {
             "id": "7b4afa385221645f",
@@ -153,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2022-W45",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +76,7 @@
       {
         "id": "5a4b06f5427e0169",
         "type": "tabs",
-        "dimension": 26.729857819905213,
+        "dimension": 37.66233766233766,
         "children": [
           {
             "id": "5c2f656910b54cc0",
@@ -241,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-27.md"
+                "file": "App.md"
               }
             }
           },
@@ -251,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-27.md",
+                "file": "App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-10-27.md",
+                "file": "App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,22 +187,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 286.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "c51bc7913cd57f11",
+  "active": "c2bdac5116bcc407",
   "lastOpenFiles": [
-    "0-Clutter/Notes/Daily/2022-10-26.md",
-    "0-Clutter/Notes/Daily/2022-10-25.md",
-    "0-Clutter/Notes/Daily/2022-10-24.md",
-    "0-Clutter/Notes/Daily/2022-10-23.md",
-    "0-Clutter/Notes/Daily/2022-10-22.md",
-    "Projects/Jewelry Production/Pendants/Skull-Arrowhead.md",
-    "Day Planners/Day Planner-20221023.md",
-    "Day Planners/Day Planner-20221024.md",
-    "Day Planners/Day Planner-20221024.sync-conflict-20221026-005001-4TH2635.md",
-    "Day Planners/Day Planner-20221026.md"
+    "0-Clutter/Notes/Daily/2022-11-18.md",
+    "Excalidraw/Drawing 2022-11-12 17.20.45.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-13 00.31.53.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-13 00.31.53.excalidraw.svg",
+    "Excalidraw/Drawing 2022-11-13 00.31.53.excalidraw.png",
+    "Day Planners/Day Planner-20221118.md",
+    "Projects/Dashboards/D-Past Due & No Date.md",
+    "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
+    "Data/Code Ninjas/HUB-Code Ninjas.md"
   ]
 }

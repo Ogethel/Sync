@@ -1,6 +1,7 @@
 ---
 tags: [ToDo, Backlog, Hobbies]
 ---
+[[BL_HUB]]
 # Hobbies
 --- 
 ## Mini Figures

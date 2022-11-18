@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template Test.md",
+                "file": "Aspect 1.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "6447284cd14697b8"
+          }
+        ]
+      },
+      {
+        "id": "cb12cded401283e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c0b900808808ae",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Aspect 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.9075486156683608,
+                  "close": true
+                }
+              }
+            },
+            "group": "6447284cd14697b8"
           }
         ]
       }
@@ -66,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Template Test.md",
+            "file": "Aspect 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -88,15 +131,12 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "02aba5b2c0409aa6",
   "lastOpenFiles": [
-    "Aspect 1.md",
     "Main Subject.md",
-    "Aspect 2.md",
     "Template Test.md",
+    "Aspect 1.md",
+    "Aspect 2.md",
     "Templates/Day Note Template.md",
     "Day Planners/Day Planner-20220724.md"
   ]

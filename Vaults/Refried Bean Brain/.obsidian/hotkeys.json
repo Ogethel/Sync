@@ -66,5 +66,14 @@
       ],
       "key": "M"
     }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }

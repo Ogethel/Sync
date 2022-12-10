@@ -1,0 +1,3 @@
+So if the point of salvation is to make you into a Christ, are you different the moment after you are forgiven of all things either in the temple or through personal revelation? I do not think so, I think that is the beginning and that begins the process you prove who your are by sacrificing your will, wants, possessions, and desires to God's will no matter the cost.
+
+I don't know for sure but when we were talking and Michaella repeatedly said she didn't need nor want to seek for a vision of Christ/the second comforter, it seemed some dark presence confirmed it's influence over her.  Though it could have just been that the contention was driving the spirit away.

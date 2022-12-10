@@ -16,8 +16,8 @@ status:
 - [x] 08:30 Feed Babies
 - [x] 09:00 Walk Worf
 - [x] 09:30 Read Scriptures
-- [ ] 10:30 Work with Pax
-- [ ] 21:30 Record Journal
+- [x] 10:30 Work with Pax
+- [x] 21:30 Record Journal
 - [ ] 22:00 END
 
 ---

@@ -18,6 +18,8 @@ tags: [App, GameDev, PassionProject]
 ![[Pasted image 20221118111304.png]]
 ![[Pasted image 20221118111311.png]]
 
+### Current Designs
+![[Pasted image 20221210064551.png]]
 ## Mechanics
 ### Gameplay Loop
 During the day you mine resources to get off world or to another planet

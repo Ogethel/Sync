@@ -7,11 +7,13 @@ tags: [ToDo, Backlog, Personal]
 ## Management
 - [ ] Organize a Weekly Template 📆2022-11-13
 - [ ] Organize a Monthly Template 📆2022-11-13
+- [ ] Week Planning Session 📆2022-12-03
 ## Professional
 ### Jewelry
 - [ ] Work on Jewelry Design - 1 hr 📆2022-10-23
 
 ### 3D Assets
+
 ### Procedural Systems
 ### Coding
 #### Game Dev

@@ -1,26 +1,25 @@
 ---
-tags: [ToDo, Backlog, Mysts]
+tags: [ToDo, Backlog, Punball]
 ---
 [[BL_HUB]]
+# Links
+[[Punball-App-DesignDoc]]
 # Administration
 ---
 ## Planning
 ### General
-- [ ] Review Clickup tasks
-- [ ] Update Obsidian tasks from Clickup
-- [ ] [[Camera-Angle]] - Record Specifications
+- [ ] Schedule Tasks with Paxton 📆2022-12-11
 ### Game Mechanics
 ### Story Concepts
-- [ ] Decide Races and Cultures
-- [ ] Decide Fauna
-- [ ] Specify Planetary Conditions
 
 ## Programs and Software Workflow Info
 ## Game Design Document
+[[Punball-App-DesignDoc]]
 ## Writing
 
 # 2D Asset Production
 ## Concept Art
+- [ ] Make 3 Enemy Concepts 📆2022-12-09
 ## Illustration
 
 # 3D Asset Production
@@ -38,15 +37,11 @@ tags: [ToDo, Backlog, Mysts]
 ## Level Testing
 ## Asset Replacement
 ## Level Tool Development
-- [ ] [[Procedural Level Generation]] - Record Initial Research
+
 
 # Coding & Game Logic
 ## Tool Scripting
 ## Game Mechanics - Concepting
-- [x] Create a Sandbox Project 📆2022-10-21 ✅ 2022-10-22
-- [x] This should be a task as well ✅ 2022-12-01
-- [x] I would have hoped this would work ✅ 2022-12-01
-
 ## Game Mech. - Prototype
 ## Game Mech. - Implementation
 ## Game Mech. - Polish

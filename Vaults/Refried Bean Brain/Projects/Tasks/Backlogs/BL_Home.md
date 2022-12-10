@@ -6,8 +6,8 @@ tags: [ToDo, Backlog, Home]
 ---
 ## Cars
 ### Obi
-- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2022-11-12
-- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2022-11-12
+- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2022-12-12
+- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2022-12-17
 - [x] Replace Sparkplugs 📆2022-10-20
 
 ### Marina
@@ -23,6 +23,11 @@ tags: [ToDo, Backlog, Home]
 - [x] Schedule and Meet with Sellers 📆
 - [x] Purchase a new Car 📆
 
+
+### Levana Bey
+- [ ] Investigate Error Code P2196 📆2022-12-10
+- [ ] Investigate Error Code P0455 📆2022-12-10
+- [ ] Get M3 Adhesive for Front Bumper 📆2022-12-10
 ## House Upkeep
 ### Daily
 - [x] Wake Up ✅ 2022-11-02
@@ -32,12 +37,12 @@ tags: [ToDo, Backlog, Home]
 - [x] Scripture Study ✅ 2022-11-02
 
 ### Weekly
-- [ ] Sweep 🔁 every week ⌛ 2022-10-24 📆 2022-10-25
-- [ ] Vacuum 🔁 every week ⌛ 2022-10-22 📆 2022-10-24
-- [ ] Dishes '1' 🔁 every week ⌛ 2022-10-25 📆 2022-10-26
+- [x] Sweep 🔁 every week ⌛ 2022-10-24 📆 2022-10-25 ✅ 2022-12-01
+- [x] Vacuum 🔁 every week ⌛ 2022-10-22 📆 2022-10-24 ✅ 2022-12-01
+- [x] Dishes '1' 🔁 every week ⌛ 2022-10-25 📆 2022-10-26 ✅ 2022-12-01
 - [x] Dishes '2' 🔁 every week ⌛ 2022-10-20 📆 2022-10-21 ✅ 2022-10-21
-- [ ] Mop 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
-- [ ] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31
+- [x] Mop 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31 ✅ 2022-12-01
+- [x] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31 ✅ 2022-12-01
 
 ### Upcoming Events
 - [x] Clean House for Bookshelves 📆2022-10-26
@@ -49,6 +54,9 @@ tags: [ToDo, Backlog, Home]
 - [x] Jessa's Gotcha Day Presents 📆2022-11-01 ✅ 2022-10-29
 - [x] Jessa's Gotcha Day Party 📆2022-11-05 ✅ 2022-11-05
 - [x] Gwenn's Family Planning 📆2022-11-06 ✅ 2022-11-06
+- [x] Work for Gwenn 📆2022-12-07 ✅ 2022-12-07
+- [ ] Work for Gwenn 📆2022-12-08
+- [ ] Gwenn and Bart's Wedding 📆2022-12-08
 
 ### To Do List
 - [x] Unpack from Watching Siblings 📆2022-10-21 ✅ 2022-10-21
@@ -65,6 +73,10 @@ tags: [ToDo, Backlog, Home]
 - [x] Load Dishes 📆2022-11-06 ✅ 2022-11-06
 - [x] Finish Laundry 📆2022-11-06 ✅ 2022-11-06
 - [x] Fold Laundry 📆2022-11-06 ✅ 2022-11-06
-- [ ] Vacuum 📆2022-11-10
+- [x] Vacuum 📆2022-11-10 ✅ 2022-12-01
 
- Apply to 1 Game Industry Related Job 📆2022-10-22
+
+
+## House
+- [ ] Get shelving pegs 📆2022-12-10
+- [ ] Get a stripped screw hole repair kit 📆2022-12-10

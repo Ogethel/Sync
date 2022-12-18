@@ -12,11 +12,11 @@ status:
 ---
 ### Schedule
 - [x] 05:30 Wake up
-- [ ] 06:00 Scriptures & Check Bag
-- [ ] 07:30 Run to Gwenn
-- [ ] 08:30 Return Home & Shower
-- [ ] 09:15 Leave for Work
-- [ ] 15:00 Get home from work
+- [x] 06:00 Scriptures & Check Bag
+- [x] 07:30 Run to Gwenn
+- [x] 08:30 Return Home & Shower
+- [x] 09:15 Leave for Work
+- [x] 15:00 Get home from work
 - [ ] 16:00 Be Ready to go to Gwenn's
 - [ ] 21:30 Record Journal
 - [ ] 22:00 END

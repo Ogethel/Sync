@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2022-12-10.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Punball App/Punball-App-DesignDoc.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-07.md"
               }
             }
           },
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Punball App/Punball-App-DesignDoc.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Punball App/Punball-App-DesignDoc.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Punball App/Punball-App-DesignDoc.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,17 +346,17 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "446bbf928f8f5cd7",
+  "active": "89f4175a13b1636a",
   "lastOpenFiles": [
+    "0-Clutter/Notes/Daily/2022-12-10.md",
+    "Projects/Punball App/Punball-App-DesignDoc.md",
+    "0-Clutter/Notes/Daily/2023-01-07.md",
     "Projects/Dashboards/D-HUB.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
-    "0-Clutter/Notes/Daily/2022-12-10.md",
     "Day Planners/Day Planner-20221210.md",
     "0-Clutter/Notes/Daily/2022-12-09.md",
     "Unity Shader - Basic Demo.md",
     "0-Clutter/Notes/Daily/2022-12-08.md",
-    "Religion/Topics/Second Comforter.md",
-    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
-    "Projects/Dashboards/D-Past Due & No Date.md"
+    "Religion/Topics/Second Comforter.md"
   ]
 }

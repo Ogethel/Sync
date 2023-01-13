@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"247c3cd492f830b8","x":-415,"y":-672,"width":400,"height":316,"type":"file","file":"New Year Resolutions 2023 - HUB.md"},
-		{"id":"4663923f0e4a1d91","x":73,"y":-794,"width":360,"height":245,"type":"text","text":"1. Get a gym Membership\n\n- Get the Membership\n\t- Work with Katelynn and Brandon to decide which gym works best for all of us\n\t- Sign up & Register\n- Commitment and Scheduling \n\t- Number of times per week\n\t- Length of session\n\t- Focus for each day\n\t- Weekly reward for staying committed\n- Check in weekly on progress"}
+		{"id":"4663923f0e4a1d91","x":180,"y":-941,"width":360,"height":245,"type":"text","text":"<mark style=\"background: #FF5582A6;\">1. Get a gym Membership\n\n- Get the Membership\n\t- Work with Katelynn and Brandon to decide which gym works best for all of us\n\t- Sign up & Register\n- Commitment and Scheduling \n\t- Number of times per week\n\t- Length of session\n\t- Focus for each day\n\t- Weekly reward for staying committed\n- Check in weekly on progress</mark>"},
+		{"id":"247c3cd492f830b8","x":-380,"y":-640,"width":400,"height":316,"type":"file","file":"New Year Resolutions 2023 - HUB.md"}
 	],
 	"edges":[
 		{"id":"cc46955a457d566a","fromNode":"247c3cd492f830b8","fromSide":"right","toNode":"4663923f0e4a1d91","toSide":"left"}

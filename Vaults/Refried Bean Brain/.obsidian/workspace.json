@@ -79,18 +79,6 @@
             }
           },
           {
-            "id": "2bd617c53f46570c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity Shader - Basic Demo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e90b084d528013a3",
             "type": "leaf",
             "state": {
@@ -99,15 +87,15 @@
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
                   "x": 20.5,
-                  "y": -304,
+                  "y": -423.2815261044177,
                   "zoom": -0.3590679995595625,
-                  "snapToGrid": false
+                  "snapToGrid": true
                 }
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -296,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Year Resolutions 2023 - HUB.md"
+                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md"
               }
             }
           },
@@ -306,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Year Resolutions 2023 - HUB.md",
+                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Year Resolutions 2023 - HUB.md",
+                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "New Year Resolutions 2023 - HUB.md",
+                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,8 +390,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0e55549170ae1e03",
+  "active": "14b7c1e54fb535ef",
   "lastOpenFiles": [
+    "Unity Shader - Basic Demo.md",
     "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",
     "0-Clutter/Notes/Daily/2023-01-13.md",
@@ -412,7 +401,6 @@
     "Projects/Punball App/Punball-App-DesignDoc.md",
     "Projects/Dashboards/D-HUB.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Day Planners/Day Planner-20221210.md",
-    "0-Clutter/Notes/Daily/2022-12-09.md"
+    "Day Planners/Day Planner-20221210.md"
   ]
 }

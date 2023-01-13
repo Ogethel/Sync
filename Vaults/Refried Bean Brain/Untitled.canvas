@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6a468282ac7ecd11","x":-266,"y":-145,"width":335,"height":276,"type":"text","text":"2023 New Years Resolutions\n\n1. Get a gym membership \n2.  Go Ice-skating once a month\n3. Sell 100 pendants I make myself\n4. Make 1000 pendants from designs I make myself\n5. Publish a game or an app\n6. Create a schedule for life management \n7. Make a game dev course\n8. Become more knowledgeable on business management\n9. Study more of Church history\n10. Be a better husband and person\n"},
+		{"id":"4663923f0e4a1d91","x":184,"y":-163,"width":250,"height":60,"type":"text","text":"1. "}
+	],
+	"edges":[
+		{"id":"db5d9bb217070a39","fromNode":"6a468282ac7ecd11","fromSide":"right","toNode":"4663923f0e4a1d91","toSide":"left"}
+	]
+}

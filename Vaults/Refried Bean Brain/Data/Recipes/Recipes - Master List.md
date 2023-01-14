@@ -2,7 +2,8 @@
 # Ethnicity Specific
 ## Mexican
 ```dataview
-LIST FROM #Mexican
+Table cuisine as Cuisine
+From 
 sort desc
 ```
 # 

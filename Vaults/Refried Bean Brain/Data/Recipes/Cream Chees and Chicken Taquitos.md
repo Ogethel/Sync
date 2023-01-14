@@ -1,6 +1,6 @@
 ---
 tags: recipe
-meal_type: [Course Appetizer, Main Course]
+meal_type: Course Appetizer, Main Course
 diet: 
 cuisine: Mexican
 main_ingredient: Chicken
@@ -12,8 +12,10 @@ total_time: 15 min
 servings: 12
 calories: 126
 author: Lil' Luna
-url: 
+url: https://lilluna.com/cream-cheese-and-chicken-taquitos/ 
 ---
+
+[[Recipes - Master List]]
 ## Summary
 You will love these Cream Cheese and Chicken Taquitos filled with cream cheese, salsa, cheese, sour cream and spinach.
 

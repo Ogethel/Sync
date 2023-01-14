@@ -26,7 +26,7 @@ You will love these Cream Cheese and Chicken Taquitos filled with cream cheese, 
 -   ▢ 6 ounces cream cheese softened
 -   ▢ 1½ cups baby spinach stems removed and chopped
 -   ▢ 1½ cups shredded Colby Jack cheese or Mexican blend cheese
--   ▢ ½ cup salsa store-bought or homemade, page XXX
+-   ▢ ½ cup salsa store-bought or homemade
 -   ▢ ⅓ cup sour cream
 -   ▢ salt and pepper to taste
 -   ▢ 12 (6-inch) corn tortillas (or flour tortillas)

@@ -86,8 +86,8 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": 20.5,
-                  "y": -423.2815261044177,
+                  "x": 156.4552878179384,
+                  "y": -514.3426160255242,
                   "zoom": -0.3590679995595625,
                   "snapToGrid": true
                 }
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "7380ba77a25e81a8",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md"
+                "file": "Canvas/New Year Resolution 2023.canvas"
               }
             }
           },
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -390,8 +390,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14b7c1e54fb535ef",
+  "active": "e90b084d528013a3",
   "lastOpenFiles": [
+    "Projects/Dashboards/Fall 2022 - Dashboard.md",
     "Unity Shader - Basic Demo.md",
     "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",
@@ -400,7 +401,6 @@
     "0-Clutter/Notes/Daily/2022-12-10.md",
     "Projects/Punball App/Punball-App-DesignDoc.md",
     "Projects/Dashboards/D-HUB.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Day Planners/Day Planner-20221210.md"
+    "Projects/Tasks/Backlogs/BL_HUB.md"
   ]
 }

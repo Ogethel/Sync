@@ -1,4 +1,5 @@
 ---
+tags: recipe
 meal_type: [Course Appetizer, Main Course]
 diet: 
 cuisine: Mexican

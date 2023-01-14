@@ -2,9 +2,14 @@
 	"nodes":[
 		{"id":"247c3cd492f830b8","x":-380,"y":-640,"width":400,"height":316,"type":"file","file":"New Year Resolutions 2023 - HUB.md"},
 		{"id":"4663923f0e4a1d91","x":160,"y":-1020,"width":360,"height":245,"type":"text","text":"<mark style=\"background: #FF5582A6;\">1. Get a gym Membership\n\n- Get the Membership\n\t- Work with Katelynn and Brandon to decide which gym works best for all of us\n\t- Sign up & Register\n- Commitment and Scheduling \n\t- Number of times per week\n\t- Length of session\n\t- Focus for each day\n\t- Weekly reward for staying committed\n- Check in weekly on progress</mark>"},
-		{"id":"a4f1b8230a2fae9d","x":31,"y":-544,"width":250,"height":60,"type":"text","text":"Ice s"}
+		{"id":"a4f1b8230a2fae9d","x":160,"y":-750,"width":360,"height":150,"type":"text","text":"<mark style=\"background: #FFB8EBA6;\">2. Ice Skate once per month</mark>\n\n- Decide on the day\n- Possibly get new skates\n- Be consistent\n- Record Progress"},
+		{"id":"9bc7a74c5b1b82f0","x":160,"y":-560,"width":360,"height":120,"type":"text","text":"3. Sell 100 Pendants I make Myself\n\n- This is going to be long return to..."},
+		{"id":"228c9f843ddfbe48","x":160,"y":-420,"width":360,"height":120,"type":"text","text":"3. Sell 100 Pendants I make Myself\n\n- This is going to be long return to..."}
 	],
 	"edges":[
-		{"id":"cc46955a457d566a","fromNode":"247c3cd492f830b8","fromSide":"right","toNode":"4663923f0e4a1d91","toSide":"left"}
+		{"id":"cc46955a457d566a","fromNode":"247c3cd492f830b8","fromSide":"right","toNode":"4663923f0e4a1d91","toSide":"left"},
+		{"id":"b8cec2c3ed92c312","fromNode":"247c3cd492f830b8","fromSide":"right","toNode":"a4f1b8230a2fae9d","toSide":"left"},
+		{"id":"06bb8e81d3f9d301","fromNode":"247c3cd492f830b8","fromSide":"right","toNode":"9bc7a74c5b1b82f0","toSide":"left"},
+		{"id":"2e792c8159f0214c","fromNode":"247c3cd492f830b8","fromSide":"right","toNode":"228c9f843ddfbe48","toSide":"left"}
 	]
 }

@@ -1,36 +1,20 @@
 ---
-meal_type: [course_appetizer, main_course]
+meal_type: [Course Appetizer, Main Course]
 diet: 
-cuisine: mexican
-main_ingredient: chicken
+cuisine: Mexican
+main_ingredient: Chicken
 cooking_method: frying_pan
 occasion: flexible
 prep_time: 5 min
 cook_time: 10 min
 total_time: 15 min
-serv
+servings: 12
+calories: 126
+author: Lil' Luna
+url: 
 ---
-
-From
-
 ## Summary
 You will love these Cream Cheese and Chicken Taquitos filled with cream cheese, salsa, cheese, sour cream and spinach.
-
-Course Appetizer, Main Course
-
-Cuisine Mexican
-
-Prep Time 5 minutes
-
-Cook Time 10 minutes
-
-Total Time 15 minutes
-
-Servings [12](https://lilluna.com/cream-cheese-and-chicken-taquitos/#)
-
-Calories 126 kcal
-
-Author Lil’ Luna
 
 ### Ingredients
 
@@ -50,8 +34,6 @@ Author Lil’ Luna
 
 ### Instructions
 
- 
-
 -   Fill a saucepan with ½ inch of oil and heat over medium heat to 350 degrees F.
     
 -   Meanwhile, in a large bowl mix together chicken, cream cheese, spinach, Colby Jack cheese, salsa and sour cream. Add salt and pepper.
@@ -62,3 +44,4 @@ Author Lil’ Luna
     
 
 -   Serve warm with your favorite toppings.
+

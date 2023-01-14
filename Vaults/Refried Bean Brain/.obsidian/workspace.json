@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Recipes/Recipes - Master List.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md"
               }
             }
           },
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,7 +402,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1af690da18f8b35b",
+  "active": "67391adb0c326335",
   "lastOpenFiles": [
     "Data/Recipes/Recipes - Master List.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",

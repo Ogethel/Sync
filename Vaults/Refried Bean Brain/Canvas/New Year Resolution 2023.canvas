@@ -5,11 +5,13 @@
 		{"id":"a4f1b8230a2fae9d","x":-720,"y":-688,"width":360,"height":150,"type":"text","text":"<mark style=\"background: #FFB8EBA6;\">2. Ice Skate once per month</mark>\n\n- Decide on the day\n- Possibly get new skates\n- Be consistent\n- Record Progress"},
 		{"id":"228c9f843ddfbe48","x":-460,"y":-1000,"width":360,"height":120,"type":"text","text":"<mark style=\"background: #ABF7F7A6;\">3. Sell 100 Pendants I make Myself</mark>\n\n- This is going to be long return to..."},
 		{"id":"9bc7a74c5b1b82f0","x":-280,"y":-688,"width":360,"height":120,"type":"text","text":"<mark style=\"background: #ADCCFFA6;\">4. Make 1000 pendants from designs I make myself</mark>\n\n- This is going to be long return to..."},
-		{"id":"85c349ecd2e7bd18","x":240,"y":-784,"width":250,"height":60,"type":"text","text":"<mark style=\"background: #BBFABBA6;\">5. Publish a game or an app</mark>\n\n- "}
+		{"id":"85c349ecd2e7bd18","x":80,"y":-1000,"width":250,"height":60,"type":"text","text":"<mark style=\"background: #BBFABBA6;\">5. Publish a game or an app</mark>\n\n- "}
 	],
 	"edges":[
 		{"id":"104c8eaf20d5d0b3","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"4663923f0e4a1d91","toSide":"top"},
 		{"id":"470631e6550865e1","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"a4f1b8230a2fae9d","toSide":"top"},
-		{"id":"5f9e4a5b8ee52c88","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"9bc7a74c5b1b82f0","toSide":"top"}
+		{"id":"5f9e4a5b8ee52c88","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"9bc7a74c5b1b82f0","toSide":"top"},
+		{"id":"35433c93d07a89e0","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"85c349ecd2e7bd18","toSide":"top"},
+		{"id":"c811e13733d02ee2","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"228c9f843ddfbe48","toSide":"top"}
 	]
 }

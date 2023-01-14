@@ -6,7 +6,7 @@
       {
         "id": "b3217683593e8c31",
         "type": "tabs",
-        "dimension": 57.19754977029097,
+        "dimension": 40.053619302949066,
         "children": [
           {
             "id": "89f4175a13b1636a",
@@ -67,18 +67,6 @@
             }
           },
           {
-            "id": "14b7c1e54fb535ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Dashboards/Fall 2022 - Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e90b084d528013a3",
             "type": "leaf",
             "state": {
@@ -105,6 +93,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc686fb51df5eac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cream Chees and Chicken Taquitos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 7
@@ -112,7 +112,7 @@
       {
         "id": "7380ba77a25e81a8",
         "type": "tabs",
-        "dimension": 42.80245022970903,
+        "dimension": 59.946380697050934,
         "children": [
           {
             "id": "661b2b1d0d8aeb6c",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes - Master List.md"
+                "file": "Cream Chees and Chicken Taquitos.md"
               }
             }
           },
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes - Master List.md",
+                "file": "Cream Chees and Chicken Taquitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes - Master List.md",
+                "file": "Cream Chees and Chicken Taquitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recipes - Master List.md",
+                "file": "Cream Chees and Chicken Taquitos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,17 +402,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67391adb0c326335",
+  "active": "fc686fb51df5eac3",
   "lastOpenFiles": [
+    "Projects/Dashboards/D-Jewelry.md",
+    "Cream Chees and Chicken Taquitos.md",
+    "Untitled 1.md",
+    "Recipes - Master List.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
     "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",
     "Unity Shader - Basic Demo.md",
     "0-Clutter/Notes/Daily/2023-01-13.md",
-    "0-Clutter/Notes/Daily/2023-01-07.md",
-    "0-Clutter/Notes/Daily/2022-12-10.md",
-    "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Projects/Dashboards/D-HUB.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md"
+    "0-Clutter/Notes/Daily/2023-01-07.md"
   ]
 }

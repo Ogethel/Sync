@@ -6,7 +6,7 @@
       {
         "id": "b3217683593e8c31",
         "type": "tabs",
-        "dimension": 50.153139356814705,
+        "dimension": 78.1010719754977,
         "children": [
           {
             "id": "89f4175a13b1636a",
@@ -74,9 +74,9 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": -130.7862050781307,
-                  "y": -959.6879022825597,
-                  "zoom": -0.6924013328928957,
+                  "x": -481.4835783282348,
+                  "y": -1004.143605555639,
+                  "zoom": -0.3590679995595624,
                   "snapToGrid": true
                 }
               }
@@ -95,12 +95,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
         "type": "tabs",
-        "dimension": 49.846860643185295,
+        "dimension": 21.898928024502297,
         "children": [
           {
             "id": "661b2b1d0d8aeb6c",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md"
+                "file": "Canvas/New Year Resolution 2023.canvas"
               }
             }
           },
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,10 +402,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67391adb0c326335",
+  "active": "e90b084d528013a3",
   "lastOpenFiles": [
-    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
+    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Recipes/Recipes - Master List.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
     "Projects/Dashboards/D-Jewelry.md",

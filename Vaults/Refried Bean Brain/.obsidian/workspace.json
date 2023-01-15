@@ -6,7 +6,7 @@
       {
         "id": "b3217683593e8c31",
         "type": "tabs",
-        "dimension": 40.053619302949066,
+        "dimension": 50.153139356814705,
         "children": [
           {
             "id": "89f4175a13b1636a",
@@ -100,7 +100,7 @@
       {
         "id": "7380ba77a25e81a8",
         "type": "tabs",
-        "dimension": 59.946380697050934,
+        "dimension": 49.846860643185295,
         "children": [
           {
             "id": "661b2b1d0d8aeb6c",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md"
               }
             }
           },
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,11 +402,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1af690da18f8b35b",
+  "active": "67391adb0c326335",
   "lastOpenFiles": [
+    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
     "Data/Recipes/Recipes - Master List.md",
-    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
     "Projects/Dashboards/D-Jewelry.md",
     "Untitled 1.md",

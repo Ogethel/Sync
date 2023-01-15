@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md"
+                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md"
               }
             }
           },
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,8 +402,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67391adb0c326335",
+  "active": "1af690da18f8b35b",
   "lastOpenFiles": [
+    "0-Clutter/Notes/Daily/2023-01-14.md",
     "Data/Recipes/Recipes - Master List.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
@@ -412,7 +413,6 @@
     "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",
     "Unity Shader - Basic Demo.md",
-    "0-Clutter/Notes/Daily/2023-01-13.md",
-    "0-Clutter/Notes/Daily/2023-01-07.md"
+    "0-Clutter/Notes/Daily/2023-01-13.md"
   ]
 }

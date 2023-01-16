@@ -8,7 +8,7 @@ tags: [ToDo, Backlog, Home]
 ### Obi
 - [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2022-12-12
 - [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2022-12-17
-- [x] Replace Sparkplugs 📆2022-10-20
+
 
 ### Marina
 - [x] Pick up and Pay for Marina 📆2022-10-19 ✅ 2022-10-19
@@ -25,9 +25,8 @@ tags: [ToDo, Backlog, Home]
 
 
 ### Levana Bey
-- [ ] Investigate Error Code P2196 📆2022-12-10
-- [ ] Investigate Error Code P0455 📆2022-12-10
-- [ ] Get M3 Adhesive for Front Bumper 📆2022-12-10
+- [ ] Get M3 Adhesive for Front Bumper 📆2023-01-21
+- [ ] Check engine code to see if it n
 ## House Upkeep
 ### Daily
 - [x] Wake Up ✅ 2022-11-02

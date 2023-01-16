@@ -74,8 +74,8 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": -285.30733595151554,
-                  "y": -832.3882274585987,
+                  "x": 138.07707338037326,
+                  "y": -854.203836336387,
                   "zoom": 0.3075986671071042,
                   "snapToGrid": true
                 }
@@ -105,9 +105,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9996d76febaa458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "7380ba77a25e81a8",
@@ -209,21 +221,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd9c10a83bcc7e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Templates/Day Planners/DP_DayOf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Templates/Day Planners/DP_DayOf.md"
+                "file": "Projects/Tasks/Backlogs/BL_Home.md"
               }
             }
           },
@@ -342,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Templates/Day Planners/DP_DayOf.md",
+                "file": "Projects/Tasks/Backlogs/BL_Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Templates/Day Planners/DP_DayOf.md",
+                "file": "Projects/Tasks/Backlogs/BL_Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Templates/Day Planners/DP_DayOf.md",
+                "file": "Projects/Tasks/Backlogs/BL_Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -438,17 +438,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd9c10a83bcc7e66",
+  "active": "a9996d76febaa458",
   "lastOpenFiles": [
-    "Canvas/New Year Resolution 2023.canvas",
-    "0-Clutter/Templates/Day Planners/DP_DayOf.md",
-    "0-Clutter/Templates/Daily Note.md",
+    "Projects/Tasks/Backlogs/BL_HUB.md",
     "0-Clutter/Notes/Daily/2023-01-16.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
+    "Canvas/New Year Resolution 2023.canvas",
+    "Projects/Dashboards/D-Crystal Tower.md",
+    "0-Clutter/Templates/Daily Note.md",
+    "0-Clutter/Templates/Day Planners/DP_DayOf.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "New Year Resolutions 2023 - HUB.md",
-    "0-Clutter/Templates/Recipe Template.md",
-    "0-Clutter/Notes/Daily/2023-01-15.md",
-    "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md"
+    "0-Clutter/Templates/Recipe Template.md"
   ]
 }

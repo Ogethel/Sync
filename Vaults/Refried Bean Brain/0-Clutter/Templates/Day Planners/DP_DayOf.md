@@ -18,7 +18,7 @@ status:
 - [ ] 09:00 Walk Worf
 - [ ] 09:30 Read Scriptures
 - [ ] 10:00 Game Dev
-- [ ] 11:00 Work on 
+- [ ] 11:00 Pendant
 - [ ] 21:30 Record Journal
 - [ ] 22:00 END
 

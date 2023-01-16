@@ -45,36 +45,20 @@ tags: [ToDo, Backlog, Home]
 - [x] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31 ✅ 2022-12-01
 
 ### Upcoming Events
-- [x] Clean House for Bookshelves 📆2022-10-26
-- [x] Maryn Performance ⌛2022-10-28 📆2022-10-29
-- [x] Move Furniture 📆2022-10-28
-- [x] Halloween Party Mt. P 📆2022-10-29 ✅ 2022-11-02
-- [x] Dinner w/Missionaries 📆2022-10-30 ✅ 2022-11-02
-- [x] Brandon Returns 📆2022-10-31 ✅ 2022-11-02
-- [x] Jessa's Gotcha Day Presents 📆2022-11-01 ✅ 2022-10-29
-- [x] Jessa's Gotcha Day Party 📆2022-11-05 ✅ 2022-11-05
-- [x] Gwenn's Family Planning 📆2022-11-06 ✅ 2022-11-06
-- [x] Work for Gwenn 📆2022-12-07 ✅ 2022-12-07
-- [ ] Work for Gwenn 📆2022-12-08
-- [ ] Gwenn and Bart's Wedding 📆2022-12-08
+- [ ] Dinner at Gwenn's 📆2023-01-16
 
 ### To Do List
-- [x] Unpack from Watching Siblings 📆2022-10-21 ✅ 2022-10-21
-- [x] Run to the Grocery Store 📆2022-10-21 ✅ 2022-10-21
-- [x] Schedule Maintenance with HOA 📆2022-10-21 ✅ 2022-10-23
-- [x] Check to See if Disposal has Reset Button 📆2022-10-23 ✅ 2022-10-23
-- [x] Laundry 📆2022-10-23
-- [x] Shower 📆2022-10-23
-- [x] Vacuum 📆2022-10-23
-- [x] Organize Floors 📆2022-10-23
-- [x] Help Cook 📆2022-10-23 ✅ 2022-10-23
-- [x] Unload Dishes 📆2022-11-06 ✅ 2022-11-06
-- [x] Wash Dishes 📆2022-11-06 ✅ 2022-11-06
-- [x] Load Dishes 📆2022-11-06 ✅ 2022-11-06
-- [x] Finish Laundry 📆2022-11-06 ✅ 2022-11-06
-- [x] Fold Laundry 📆2022-11-06 ✅ 2022-11-06
-- [x] Vacuum 📆2022-11-10 ✅ 2022-12-01
-
+- [ ] Do a DI Run 📆2023-01-17
+- [ ] Store run for Lunch 📆2023-01-16
+- [ ] Finish outlining my new year's Goals
+- [ ] Pay the HOA 📆2023-01-17
+- [ ] dust the blinds 📆2023-01-22
+- [ ] vacuum house 📆2023-01-22
+- [ ] mop 📆2023-01-22
+- [ ] clean the main floor bathroom 📆2023-01-22
+- [ ] clean up holiday presents 📆
+- [ ] finish dishes 📆2023-01-28
+- [ ] finish laundry 📆2023-01-28
 
 
 ## House
@@ -92,4 +76,5 @@ tags: [ToDo, Backlog, Home]
 	- [ ] Michaella's Office
 	- [ ] My Office
 - [ ] Weather strip the doors 📆2023-01-21
-	- [ ] 
+	- [ ] Front Door
+	- [ ] Cat Door

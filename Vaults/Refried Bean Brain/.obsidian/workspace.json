@@ -74,9 +74,9 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": 39.250825955567166,
-                  "y": -1164.4682374164154,
-                  "zoom": -0.3590679995595624,
+                  "x": -80.03070014885049,
+                  "y": -882.0216317161972,
+                  "zoom": -1.3590679995595623,
                   "snapToGrid": true
                 }
               }
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-15.md"
+                "file": "New Year Resolutions 2023 - HUB.md"
               }
             }
           },
@@ -318,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
+                "file": "New Year Resolutions 2023 - HUB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
+                "file": "New Year Resolutions 2023 - HUB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
+                "file": "New Year Resolutions 2023 - HUB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -414,17 +414,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6f72979286354cf",
+  "active": "e90b084d528013a3",
   "lastOpenFiles": [
+    "New Year Resolutions 2023 - HUB.md",
     "Canvas/New Year Resolution 2023.canvas",
-    "Projects/Dashboards/D-Jewelry.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
+    "0-Clutter/Notes/Daily/2023-01-15.md",
+    "Projects/Dashboards/D-Jewelry.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Recipes/Recipes - Master List.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
     "Untitled 1.md",
-    "New Year Resolutions 2023 - HUB.md",
-    "Unity Shader - Basic Demo.md",
-    "0-Clutter/Notes/Daily/2023-01-13.md"
+    "Unity Shader - Basic Demo.md"
   ]
 }

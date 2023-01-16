@@ -25,8 +25,8 @@ tags: [ToDo, Backlog, Home]
 
 
 ### Levana Bey
-- [ ] Get M3 Adhesive for Front Bumper 📆2023-01-21
-- [ ] Check engine code to see if it matches P0420 📆2023-01-21
+- [x] Get M3 Adhesive for Front Bumper 📆2023-01-21 ✅ 2023-01-16
+- [x] Check engine code to see if it matches P0420 📆2023-01-21 ✅ 2023-01-16
 
 ## House Upkeep
 ### Daily
@@ -45,7 +45,7 @@ tags: [ToDo, Backlog, Home]
 - [x] Dust 🔁 every month on the last ⌛ 2022-10-01 📆 2022-10-31 ✅ 2022-12-01
 
 ### Upcoming Events
-- [ ] Dinner at Gwenn's 📆2023-01-16
+- [x] Dinner at Gwenn's 📆2023-01-16 ✅ 2023-01-16
 
 ### To Do List
 - [ ] Do a DI Run 📆2023-01-17
@@ -63,7 +63,7 @@ tags: [ToDo, Backlog, Home]
 
 ## House
 - [ ] Get shelving pegs 📆2023-01-17
-- [ ] Get a stripped screw hole repair kit 📆2023-01-17
+- [x] Get a stripped screw hole repair kit 📆2023-01-17 ✅ 2023-01-16
 - [ ] Clean the Carpet
 	- [ ] Assemble and Test the Sprayer 📆2023-01-17
 	- [ ] Soak the carpet 📆2023-01-18

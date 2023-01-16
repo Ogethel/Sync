@@ -163,9 +163,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "162133751c801b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Airbrush Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md"
+                "file": "Data/Airbrush Links.md"
               }
             }
           },
@@ -284,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
+                "file": "Data/Airbrush Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
+                "file": "Data/Airbrush Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
+                "file": "Data/Airbrush Links.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,12 +392,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6f72979286354cf",
+  "active": "162133751c801b54",
   "lastOpenFiles": [
+    "0-Clutter/Notes/Daily/2023-01-16.md",
     "Canvas/New Year Resolution 2023.canvas",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Recipes/Recipes - Master List.md",
-    "0-Clutter/Notes/Daily/2023-01-16.md",
     "Day Planners/Day Planner-20230116.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",

@@ -204,7 +204,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaSound.md",
+                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaSound.md"
+                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md"
               }
             }
           },
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaSound.md",
+                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaSound.md",
+                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MetaSound.md",
+                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -428,15 +428,15 @@
   },
   "active": "739e2b4c82f3820a",
   "lastOpenFiles": [
-    "Music Composition - HUB.md",
+    "Data/Music/Music Creation/UE5-MetaSounds.md",
+    "Data/Music/Music Creation/Music Composition - HUB.md",
+    "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
     "0-Clutter/Notes/Daily/2023-01-15.md",
     "Projects/Dashboards/D-Jewelry.md",
-    "Data/Recipes/Recipes - Master List.md",
-    "Projects/Dashboards/Fall 2022 - Dashboard.md",
-    "Untitled 1.md"
+    "Data/Recipes/Recipes - Master List.md"
   ]
 }

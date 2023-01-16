@@ -1,5 +1,5 @@
 # Music for Games
-[[MetaSound]]
+[[UE5-MetaSounds]]
 # Theory and Fundamentals
 
 # Software

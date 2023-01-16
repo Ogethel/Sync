@@ -64,8 +64,8 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": -42.536709360131226,
-                  "y": -979.8049526711497,
+                  "x": 974.5775225667876,
+                  "y": -1031.6824946396014,
                   "zoom": -0.6526440997997984,
                   "snapToGrid": false
                 }
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md"
               }
             }
           },
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,17 +380,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a7390476e67d626a",
+  "active": "b6f72979286354cf",
   "lastOpenFiles": [
-    "Data/Recipes/Recipes - Master List.md",
     "Canvas/New Year Resolution 2023.canvas",
+    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
+    "Data/Recipes/Recipes - Master List.md",
     "0-Clutter/Notes/Daily/2023-01-16.md",
     "Day Planners/Day Planner-20230116.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",
     "Data/Airbrush Links.md",
     "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
-    "Projects/Jewelry Production/Paxton and Maryn Rings.md"
+    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md"
   ]
 }

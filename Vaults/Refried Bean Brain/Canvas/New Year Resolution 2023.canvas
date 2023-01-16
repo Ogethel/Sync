@@ -5,7 +5,13 @@
 		{"id":"9bc7a74c5b1b82f0","x":-280,"y":-688,"width":360,"height":120,"type":"text","text":"<mark style=\"background: #ADCCFFA6;\">4. Make 1000 pendants from designs I make myself</mark>\n\n- This is going to be long return to..."},
 		{"id":"85c349ecd2e7bd18","x":80,"y":-1000,"width":250,"height":60,"type":"text","text":"<mark style=\"background: #BBFABBA6;\">5. Publish a game or an app</mark>\n\n- "},
 		{"id":"228c9f843ddfbe48","x":-420,"y":-1000,"width":360,"height":120,"type":"text","text":"<mark style=\"background: #ABF7F7A6;\">3. Sell 100 Pendants I make Myself</mark>\n\n- This is going to be long return to..."},
-		{"id":"247c3cd492f830b8","x":5,"y":-1560,"width":400,"height":380,"type":"file","file":"New Year Resolutions 2023 - HUB.md"}
+		{"id":"247c3cd492f830b8","x":5,"y":-1560,"width":400,"height":380,"type":"file","file":"New Year Resolutions 2023 - HUB.md"},
+		{"id":"773cc95a9ea9dc4b","x":205,"y":-760,"width":250,"height":385,"type":"text","text":"<mark style=\"background: #FFB86CA6;\">6. Create a schedule for life management </mark>\n\n"},
+		{"id":"53d10ee52fe46ad0","x":455,"y":-1180,"width":250,"height":385,"type":"text","text":"<mark style=\"background: #FFF3A3A6;\">7. Make a game dev course</mark>\n\n"},
+		{"id":"d5da321f906ec336","x":580,"y":-688,"width":250,"height":385,"type":"text","text":"<mark style=\"background: #D2B3FFA6;\">8. Become more knowledgeable on business management</mark>\n"},
+		{"id":"c1502df47832efa9","x":830,"y":-1162,"width":250,"height":385,"type":"text","text":"<mark style=\"background: #A2E2ABA8;\">9. Study more of Church history</mark>\n"},
+		{"id":"6c3e4dec930b7e8b","x":1020,"y":-688,"width":250,"height":385,"type":"text","text":"<mark style=\"background: #90400EA8;\">10. Be a better husband and person</mark>\n"},
+		{"id":"f54d9c89a78f2c5f","x":1180,"y":-1162,"width":250,"height":385,"type":"text","text":"<mark style=\"background: #9281A9A8;\">11. Make one new meal a week</mark>"}
 	],
 	"edges":[
 		{"id":"104c8eaf20d5d0b3","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"4663923f0e4a1d91","toSide":"top"},

@@ -93,9 +93,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6f72979286354cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "7380ba77a25e81a8",
@@ -296,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-15.md"
               }
             }
           },
@@ -306,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-14.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,14 +414,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67391adb0c326335",
+  "active": "b6f72979286354cf",
   "lastOpenFiles": [
     "Canvas/New Year Resolution 2023.canvas",
+    "Projects/Dashboards/D-Jewelry.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Recipes/Recipes - Master List.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
-    "Projects/Dashboards/D-Jewelry.md",
     "Untitled 1.md",
     "New Year Resolutions 2023 - HUB.md",
     "Unity Shader - Basic Demo.md",

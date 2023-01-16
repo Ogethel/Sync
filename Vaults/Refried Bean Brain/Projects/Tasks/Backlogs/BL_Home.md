@@ -6,8 +6,8 @@ tags: [ToDo, Backlog, Home]
 ---
 ## Cars
 ### Obi
-- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2022-12-12
-- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2022-12-17
+- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2023-01-21
+- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2023-01-21
 
 
 ### Marina
@@ -26,7 +26,8 @@ tags: [ToDo, Backlog, Home]
 
 ### Levana Bey
 - [ ] Get M3 Adhesive for Front Bumper 📆2023-01-21
-- [ ] Check engine code to see if it n
+- [ ] Check engine code to see if it matches P0420 📆2023-01-21
+
 ## House Upkeep
 ### Daily
 - [x] Wake Up ✅ 2022-11-02
@@ -77,5 +78,18 @@ tags: [ToDo, Backlog, Home]
 
 
 ## House
-- [ ] Get shelving pegs 📆2022-12-10
-- [ ] Get a stripped screw hole repair kit 📆2022-12-10
+- [ ] Get shelving pegs 📆2023-01-17
+- [ ] Get a stripped screw hole repair kit 📆2023-01-17
+- [ ] Clean the Carpet
+	- [ ] Assemble and Test the Sprayer 📆2023-01-17
+	- [ ] Soak the carpet 📆2023-01-18
+	- [ ] Dry the carpet 📆2023-01-19
+	- [ ] paint the wood and concrete 📆2023-01-21
+	- [ ] lay down new pad 📆2023-01-21
+- [ ] layout Geordie's new bathroom 📆2023-01-18
+- [ ] design the closet shelves
+	- [ ] Bedroom
+	- [ ] Michaella's Office
+	- [ ] My Office
+- [ ] Weather strip the doors 📆2023-01-21
+	- [ ] 

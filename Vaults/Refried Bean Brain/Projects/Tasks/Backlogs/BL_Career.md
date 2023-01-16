@@ -22,9 +22,9 @@ tags: [ToDo, Backlog, Career]
 ## Code Ninjas
 - [x] Finish Ninja Puzzle 📆2022-11-06
 - [x] Get through white belt 📆2022-11-10
-- [ ] Get through yellow belt 📆2022-12-17
-- [ ] Start Orange Belt 📆2022-12-17
-- [ ] Finish Orange Belt 📆2022-12-22
+- [x] Get through yellow belt 📆2022-12-17
+- [x] Start Orange Belt 📆2022-12-17
+- [ ] Finish Orange Belt 📆2023-01-28
 - [ ] Install the proper version of Unity 📆2022-12-09
 - [x] 5 hrs Grading (Home) 📆2022-11-09
 - [ ] Get Minecraft 📆2022-11-11

@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "mode": "source",
                 "source": false
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md"
+                "file": "Projects/Tasks/Backlogs/BL_Career.md"
               }
             }
           },
@@ -354,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -452,15 +452,15 @@
   },
   "active": "a9996d76febaa458",
   "lastOpenFiles": [
+    "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Projects/Tasks/Backlogs/BL_Hobbies.md",
+    "Projects/Tasks/Backlogs/BL_Jewelry.md",
     "Projects/Tasks/Backlogs/BL_Home.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
     "0-Clutter/Notes/Daily/2023-01-16.md",
     "New Year Resolutions 2023 - HUB.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
     "Canvas/New Year Resolution 2023.canvas",
-    "Projects/Dashboards/D-Crystal Tower.md",
-    "0-Clutter/Templates/Daily Note.md",
-    "0-Clutter/Templates/Day Planners/DP_DayOf.md"
+    "Projects/Dashboards/D-Crystal Tower.md"
   ]
 }

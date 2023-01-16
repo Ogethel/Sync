@@ -36,7 +36,7 @@ tags: [ToDo, Backlog, Jewelry]
 - [ ] Clean up
 
 ### Paxtons Ring
-- [ ] Make base ring form [[Paxton and Maryn Rings]] 📆2022-12-09
+- [ ] Make base ring form [[Paxton and Maryn Rings]] 📆2023-01-23
 - [ ] Schedule/Reschedule Tasks 📆2022-12-11
 - [ ] Play with shapes [[Paxton and Maryn Rings]] 📆2022-12-16
 ## Jenice's Pendant 

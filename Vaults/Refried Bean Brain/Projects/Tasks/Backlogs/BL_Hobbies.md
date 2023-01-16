@@ -5,11 +5,18 @@ tags: [ToDo, Backlog, Hobbies]
 # Hobbies
 --- 
 ## Mini Figures
+### Designing
+- [ ] Make a Funnel design for filtering resin 📆2023-01-19
+- [ ] Print the Funnel Design 📆2023-01-25
 ### Printing
-- [ ] Print Spencer the Monster Owl 📆2022-10-20
+- [x] Print Spencer the Monster Owl 📆2022-10-20
+- [ ] Print Terrain for D&D Gaming
+	- [ ] Design some modular terrain 📆2023-01-20
+	- [ ] Test SLA Print
+	- [ ] Finalize and print
+- [ ] Print some additional minis from my subscription 📆2023-01-18
 
 ### Painting
-- [x] Buy an Airbrush Compressor 📆 ✅ 2022-12-01
-- [x] Buy an Airbrush 📆 ✅ 2022-12-01
-- [x] Buy Airbrush Paints 📆 ✅ 2022-12-01
+- [ ] Buy Airbrush Cleaner 📆2023-01-21
+- [ ] Buy paints
 

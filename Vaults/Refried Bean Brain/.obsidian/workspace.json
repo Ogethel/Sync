@@ -74,9 +74,9 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": -78.5248526299959,
-                  "y": -1230.8674297381872,
-                  "zoom": -1.3590679995595623,
+                  "x": -179.36516609683065,
+                  "y": -976.4056069350283,
+                  "zoom": -0.6924013328928957,
                   "snapToGrid": true
                 }
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas"
+                "file": "New Year Resolutions 2023 - HUB.md"
               }
             }
           },
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas",
+                "file": "New Year Resolutions 2023 - HUB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas",
+                "file": "New Year Resolutions 2023 - HUB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas",
+                "file": "New Year Resolutions 2023 - HUB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

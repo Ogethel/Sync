@@ -64,8 +64,8 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": -56.68512989698176,
-                  "y": -1108.7109670466612,
+                  "x": -42.536709360131226,
+                  "y": -979.8049526711497,
                   "zoom": -0.6526440997997984,
                   "snapToGrid": false
                 }
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "7380ba77a25e81a8",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_HUB.md"
+                "file": "Canvas/New Year Resolution 2023.canvas"
               }
             }
           },
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_HUB.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_HUB.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_HUB.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,17 +367,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e83796268a76e29c",
+  "active": "e90b084d528013a3",
   "lastOpenFiles": [
+    "0-Clutter/Notes/Daily/2023-01-16.md",
+    "Day Planners/Day Planner-20230116.md",
+    "Canvas/New Year Resolution 2023.canvas",
+    "Projects/Tasks/Backlogs/BL_HUB.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",
     "Data/Airbrush Links.md",
     "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
     "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
     "Projects/Jewelry Production/Paxton and Maryn Rings.md",
-    "Projects/Dashboards/D-Jewelry.md",
-    "0-Clutter/Notes/Daily/2023-01-16.md",
-    "Canvas/New Year Resolution 2023.canvas",
-    "New Year Resolutions 2023 - HUB.md"
+    "Projects/Dashboards/D-Jewelry.md"
   ]
 }

@@ -12,3 +12,12 @@ tags: []
 
 ## Green
 
+## Blue
+
+## Purple
+
+## Brown
+
+## Red
+
+## Black

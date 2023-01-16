@@ -11,7 +11,8 @@
 		{"id":"d5da321f906ec336","x":405,"y":-600,"width":375,"height":132,"type":"text","text":"<mark style=\"background: #D2B3FFA6;\">8. Become more knowledgeable on business management</mark>\n\n- Goal = Spend 1 hr each week on business study"},
 		{"id":"773cc95a9ea9dc4b","x":58,"y":-594,"width":295,"height":132,"type":"text","text":"<mark style=\"background: #FFB86CA6;\">6. Create a schedule for life management </mark>\n\n- Goal = Make sure that I write out my projects before starting them\n- Goal = Update my daily and weekly tasks in obsidian to reflect my goals\n"},
 		{"id":"a4f1b8230a2fae9d","x":-800,"y":-600,"width":360,"height":150,"type":"text","text":"<mark style=\"background: #FFB8EBA6;\">2. Ice Skate once per month</mark>\n\n- Decide on the day (First Friday of the Month?)\n- Possibly get new skates\n- Be consistent\n- Record Progress"},
-		{"id":"228c9f843ddfbe48","x":-355,"y":-600,"width":360,"height":245,"type":"text","text":"<mark style=\"background: #ABF7F7A6;\">4. Sell 100 Pendants I make Myself</mark>\n\n- Set up online store on Etsy\n- Set up each Listing\n- Sell 100\n- Keep track of and manage tax revenue"}
+		{"id":"228c9f843ddfbe48","x":-355,"y":-600,"width":360,"height":245,"type":"text","text":"<mark style=\"background: #ABF7F7A6;\">4. Sell 100 Pendants I make Myself</mark>\n\n- Set up online store on Etsy\n- Set up each Listing\n- Sell 100\n- Keep track of and manage tax revenue"},
+		{"id":"b4dff60213389592","x":64,"y":-1821,"width":341,"height":101,"type":"text","text":"[[New Year Resolutions 2023 - HUB]]"}
 	],
 	"edges":[
 		{"id":"104c8eaf20d5d0b3","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"4663923f0e4a1d91","toSide":"top"},
@@ -24,6 +25,7 @@
 		{"id":"ec6e5f6044018e6e","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"d5da321f906ec336","toSide":"top"},
 		{"id":"bd36b905a4331406","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"c1502df47832efa9","toSide":"top"},
 		{"id":"65330e573d5f254a","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"6c3e4dec930b7e8b","toSide":"top"},
-		{"id":"38536ecf684aa083","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"f54d9c89a78f2c5f","toSide":"top"}
+		{"id":"38536ecf684aa083","fromNode":"247c3cd492f830b8","fromSide":"bottom","toNode":"f54d9c89a78f2c5f","toSide":"top"},
+		{"id":"4b319309ec313121","fromNode":"247c3cd492f830b8","fromSide":"top","toNode":"b4dff60213389592","toSide":"bottom"}
 	]
 }

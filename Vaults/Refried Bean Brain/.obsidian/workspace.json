@@ -74,8 +74,8 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": 334.1037686054375,
-                  "y": -808.4586328547902,
+                  "x": 6.068475300756575,
+                  "y": -756.4182845485079,
                   "zoom": -0.6924013328928957,
                   "snapToGrid": true
                 }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md"
+                "file": "Canvas/New Year Resolution 2023.canvas"
               }
             }
           },
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
+                "file": "Canvas/New Year Resolution 2023.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -426,11 +426,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "739e2b4c82f3820a",
+  "active": "e90b084d528013a3",
   "lastOpenFiles": [
+    "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
     "Data/Music/Music Creation/UE5-MetaSounds.md",
     "Data/Music/Music Creation/Music Composition - HUB.md",
-    "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",

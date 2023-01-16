@@ -50,7 +50,7 @@ tags: [ToDo, Backlog, Home]
 ### To Do List
 - [ ] Do a DI Run 📆2023-01-17
 - [ ] Store run for Lunch 📆2023-01-16
-- [ ] Finish outlining my new year's Goals 📆2023-01-16
+- [x] Finish outlining my new year's Goals 📆2023-01-16 ✅ 2023-01-16
 - [ ] Pay the HOA 📆2023-01-17
 - [ ] dust the blinds 📆2023-01-22
 - [ ] vacuum house 📆2023-01-22

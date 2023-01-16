@@ -74,9 +74,9 @@
               "state": {
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
-                  "x": 122.82684798663868,
-                  "y": -761.1793147132734,
-                  "zoom": -0.3590679995595624,
+                  "x": 13.8060983213107,
+                  "y": -1027.9595021296052,
+                  "zoom": -1.3590679995595623,
                   "snapToGrid": true
                 }
               }
@@ -197,21 +197,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "739e2b4c82f3820a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -428,11 +416,11 @@
   },
   "active": "e90b084d528013a3",
   "lastOpenFiles": [
+    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Music/Music Creation/MetaSound - Cue Points-Composition-GameplayHooks.md",
+    "Canvas/New Year Resolution 2023.canvas",
     "Data/Music/Music Creation/UE5-MetaSounds.md",
     "Data/Music/Music Creation/Music Composition - HUB.md",
-    "Data/Recipes/Cream Chees and Chicken Taquitos.md",
-    "Canvas/New Year Resolution 2023.canvas",
     "New Year Resolutions 2023 - HUB.md",
     "0-Clutter/Notes/Daily/2023-01-14.md",
     "0-Clutter/Notes/Daily/2023-01-15.md",

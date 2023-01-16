@@ -6,7 +6,7 @@
       {
         "id": "b3217683593e8c31",
         "type": "tabs",
-        "dimension": 51.454823889739664,
+        "dimension": 49.846860643185295,
         "children": [
           {
             "id": "89f4175a13b1636a",
@@ -57,22 +57,6 @@
             }
           },
           {
-            "id": "e90b084d528013a3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas",
-                "viewState": {
-                  "x": 974.5775225667876,
-                  "y": -1031.6824946396014,
-                  "zoom": -0.6526440997997984,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
             "id": "b6f72979286354cf",
             "type": "leaf",
             "state": {
@@ -85,12 +69,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "7380ba77a25e81a8",
         "type": "tabs",
-        "dimension": 48.545176110260336,
+        "dimension": 50.153139356814705,
         "children": [
           {
             "id": "e83796268a76e29c",
@@ -153,31 +137,23 @@
             }
           },
           {
-            "id": "a7390476e67d626a",
+            "id": "e90b084d528013a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data/Recipes/Cream Chees and Chicken Taquitos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "162133751c801b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Airbrush Links.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/New Year Resolution 2023.canvas",
+                "viewState": {
+                  "x": 194.84234631369375,
+                  "y": -1212.7005197392436,
+                  "zoom": -0.6526440997997984,
+                  "snapToGrid": false
+                }
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -392,17 +368,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "162133751c801b54",
+  "active": "661b2b1d0d8aeb6c",
   "lastOpenFiles": [
     "0-Clutter/Notes/Daily/2023-01-16.md",
+    "Projects/Dashboards/D-Jewelry.md",
     "Canvas/New Year Resolution 2023.canvas",
+    "Data/Airbrush Links.md",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Recipes/Recipes - Master List.md",
     "Day Planners/Day Planner-20230116.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",
-    "Data/Airbrush Links.md",
-    "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md"
+    "Projects/Punball App/Punball-App-DesignDoc.md"
   ]
 }

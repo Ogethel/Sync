@@ -17,6 +17,6 @@ tags: [ToDo, Backlog, Hobbies]
 - [ ] Print some additional minis from my subscription 📆2023-01-18
 
 ### Painting
-- [ ] Buy Airbrush Cleaner 📆2023-01-21
+- [x] Buy Airbrush Cleaner 📆2023-01-21 ✅ 2023-01-16
 - [ ] Buy paints
 

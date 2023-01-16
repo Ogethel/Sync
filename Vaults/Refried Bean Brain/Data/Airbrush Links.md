@@ -14,6 +14,7 @@
 ## Consumables
 ### Paints
 [Gundam Paints Storefront](https://mcwfinishes.com/shop/ols/categories/bandai--gundam-paints)
+https://www.dna-paints.com/trident/
 
 ### Other
 [Needle Polish $11](https://www.amazon.com/Flitz-Plastic-Fiberglass-1-76-Ounce-Blister/dp/B000MUSOW4?crid=1MTJA4YZMR70V&keywords=fliz&qid=1664062171&qu=eyJxc2MiOiIyLjAzIiwicXNhIjoiMS42NyIsInFzcCI6IjEuNDEifQ%3D%3D&sbo=GLaw0Fx56FiNH/iZ%2B6XKiQ%3D%3D&sprefix=fliz,aps,234&sr=8-1&th=1&linkCode=sl1&tag=barbatosrex-20&linkId=690e87abe0bcba2218ab86be64a45efe&language=en_US&ref_=as_li_ss_tl)

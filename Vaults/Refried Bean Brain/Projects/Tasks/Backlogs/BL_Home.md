@@ -62,7 +62,7 @@ tags: [ToDo, Backlog, Home]
 
 
 ## House
-- [ ] Get shelving pegs 📆2023-01-17
+- [x] Get shelving pegs 📆2023-01-17 ✅ 2023-01-16
 - [x] Get a stripped screw hole repair kit 📆2023-01-17 ✅ 2023-01-16
 - [ ] Clean the Carpet
 	- [ ] Assemble and Test the Sprayer 📆2023-01-17

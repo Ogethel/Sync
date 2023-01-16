@@ -12,13 +12,12 @@ status:
 ---
 
 ## Notes for the Day:
-### Active Projects
-#### Rookies
-[[Moto the Bruiser]]
-#### Website
-#### Skull Arrowhead
+### Goals
+#### Pendants
 [[Skull-Arrowhead]]
-#### Humble Bundles
+
+### Active Projects
+#### Work on Website
 
 ### Notes
 #### Day Outline + Goals

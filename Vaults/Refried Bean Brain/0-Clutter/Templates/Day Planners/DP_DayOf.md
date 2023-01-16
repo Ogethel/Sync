@@ -11,11 +11,14 @@ status:
 
 ---
 ### Schedule
-- [ ] 08:00 Wake Up
-- [ ] 08:15 Read Scriptures in Bed
+- [ ] 07:00 Wake Up
+- [ ] 07:15 Read Scriptures in Bed
+- [ ] 08:30 Work out (A, L, C)
 - [ ] 08:30 Feed Babies
 - [ ] 09:00 Walk Worf
 - [ ] 09:30 Read Scriptures
+- [ ] 10:00 Game Dev
+- [ ] 11:00 Work on 
 - [ ] 21:30 Record Journal
 - [ ] 22:00 END
 

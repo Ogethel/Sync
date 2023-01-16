@@ -17,7 +17,7 @@ status:
 - [x] 08:30 Feed Babies
 - [x] 09:00 Walk Worf
 - [x] 09:30 Read Scriptures
-- [ ] 10:00 Game Dev
+- [x] 10:00 Game Dev
 - [ ] 11:00 Pendant
 - [ ] 21:30 Record Journal
 - [ ] 22:00 END

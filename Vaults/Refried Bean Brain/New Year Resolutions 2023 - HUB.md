@@ -4,9 +4,9 @@
 
 <mark style="background: #FFB8EBA6;">2.  Go Ice-skating once a month</mark>
 
-<mark style="background: #ABF7F7A6;">3. Sell 100 pendants I make myself</mark>
+<mark style="background: #ADCCFFA6;">3. Make 1000 pendants from designs I make myself</mark>
 
-<mark style="background: #ADCCFFA6;">4. Make 1000 pendants from designs I make myself</mark>
+<mark style="background: #ABF7F7A6;">4. Sell 100 pendants I make myself</mark>
 
 <mark style="background: #BBFABBA6;">5. Publish a game or an app</mark>
 

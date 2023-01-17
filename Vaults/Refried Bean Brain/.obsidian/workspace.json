@@ -57,6 +57,22 @@
             }
           },
           {
+            "id": "e90b084d528013a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/New Year Resolution 2023.canvas",
+                "viewState": {
+                  "x": 194.84234631369375,
+                  "y": -1212.7005197392436,
+                  "zoom": -0.6526440997997984,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
             "id": "b6f72979286354cf",
             "type": "leaf",
             "state": {
@@ -69,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -133,22 +149,6 @@
                 "file": "Data/Airbrush Links.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e90b084d528013a3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas",
-                "viewState": {
-                  "x": 194.84234631369375,
-                  "y": -1212.7005197392436,
-                  "zoom": -0.6526440997997984,
-                  "snapToGrid": false
-                }
               }
             }
           }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Airbrush Links.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Airbrush Links.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Airbrush Links.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Airbrush Links.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -368,17 +368,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "661b2b1d0d8aeb6c",
+  "active": "b6f72979286354cf",
   "lastOpenFiles": [
+    "Projects/Tasks/Backlogs/BL_Home.md",
     "0-Clutter/Notes/Daily/2023-01-16.md",
-    "Projects/Dashboards/D-Jewelry.md",
-    "Canvas/New Year Resolution 2023.canvas",
     "Data/Airbrush Links.md",
+    "Projects/Dashboards/D-Jewelry.md",
+    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
+    "Canvas/New Year Resolution 2023.canvas",
     "Data/Recipes/Cream Chees and Chicken Taquitos.md",
     "Data/Recipes/Recipes - Master List.md",
     "Day Planners/Day Planner-20230116.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Data/Code Ninjas/HUB-Code Ninjas.md",
-    "Projects/Punball App/Punball-App-DesignDoc.md"
+    "Projects/Tasks/Backlogs/BL_HUB.md"
   ]
 }

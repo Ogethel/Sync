@@ -151,9 +151,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a5f2a6550f19f50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,9 +269,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -272,7 +278,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +294,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +312,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -368,10 +371,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6f72979286354cf",
+  "active": "9a5f2a6550f19f50",
   "lastOpenFiles": [
-    "Projects/Tasks/Backlogs/BL_Home.md",
     "0-Clutter/Notes/Daily/2023-01-16.md",
+    "Projects/Tasks/Backlogs/BL_Home.md",
     "Data/Airbrush Links.md",
     "Projects/Dashboards/D-Jewelry.md",
     "Projects/Jewelry Production/Paxton and Maryn Rings.md",

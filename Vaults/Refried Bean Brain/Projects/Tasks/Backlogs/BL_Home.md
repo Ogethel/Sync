@@ -48,10 +48,10 @@ tags: [ToDo, Backlog, Home]
 - [x] Dinner at Gwenn's 📆2023-01-16 ✅ 2023-01-16
 
 ### To Do List
-- [ ] Do a DI Run 📆2023-01-18
+- [x] Do a DI Run 📆2023-01-18 ✅ 2023-01-18
 - [x] Store run for Lunch 📆2023-01-16 ✅ 2023-01-16
 - [x] Finish outlining my new year's Goals 📆2023-01-16 ✅ 2023-01-16
-- [ ] Pay the HOA 📆2023-01-18
+- [x] Pay the HOA 📆2023-01-18 ✅ 2023-01-18
 - [ ] dust the blinds 📆2023-01-22
 - [ ] vacuum house 📆2023-01-22
 - [ ] mop 📆2023-01-22

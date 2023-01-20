@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md"
               }
             }
           },
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Home.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -383,10 +383,10 @@
   "active": "b6f72979286354cf",
   "lastOpenFiles": [
     "0-Clutter/Notes/Daily/2023-01-18.md",
+    "Projects/Tasks/Backlogs/BL_Home.md",
     "Projects/Tasks/Backlogs/BL_Career.md",
     "Projects/Dashboards/Fall 2022 - Dashboard.md",
     "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
-    "Projects/Tasks/Backlogs/BL_Home.md",
     "0-Clutter/Notes/Daily/2023-01-17.md",
     "Canvas/New Year Resolution 2023.canvas",
     "0-Clutter/Notes/Daily/2023-01-16.md",

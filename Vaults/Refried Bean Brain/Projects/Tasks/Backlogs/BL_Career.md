@@ -14,9 +14,9 @@ tags: [ToDo, Backlog, Career]
 - [ ] Apply to [[Badali-Jewelry]] 📆2022-12-03
 
 ## 3D Asset Creation
-- [ ] Create a Custom Assignment Sheet and Course Page 📆2023-01-18
+- [ ] Create a Custom Assignment Sheet and Course Page 📆2023-01-20
 	- [ ] Game Dev
-	- [ ] Jewelry 
+	- [x] Jewelry ✅ 2023-01-19
 	- [ ] Web Dev
 	- [ ] 3D Asset Creation
 	- [ ] Animation

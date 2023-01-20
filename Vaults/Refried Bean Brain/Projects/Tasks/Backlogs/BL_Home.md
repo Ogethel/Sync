@@ -67,12 +67,12 @@ tags: [ToDo, Backlog, Home]
 - [ ] Get a box of Matches 📆2023-01-19
 - [ ] Use Matches to Fix the Stripped Holes in Doors 📆2023-01-19
 - [ ] Clean the Carpet
-	- [ ] Assemble and Test the Sprayer 📆2023-01-18
-	- [ ] Soak the carpet 📆2023-01-18
+	- [ ] Assemble and Test the Sprayer 📆2023-01-19
+	- [ ] Soak the carpet 📆2023-01-19
 	- [ ] Dry the carpet 📆2023-01-19
 	- [ ] paint the wood and concrete 📆2023-01-21
 	- [ ] lay down new pad 📆2023-01-21
-- [ ] layout Geordie's new bathroom 📆2023-01-18
+- [ ] layout Geordie's new bathroom 📆2023-01-19
 - [ ] design the closet shelves
 	- [ ] Bedroom
 	- [ ] Michaella's Office

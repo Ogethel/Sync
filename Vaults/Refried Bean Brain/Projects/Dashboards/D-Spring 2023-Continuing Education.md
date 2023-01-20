@@ -8,15 +8,14 @@ Courses I am taking at the moment:
 ### Family Game/Punball App/Crystal Tower
 ### Active Paid Tutorial 1440
 ### Game/Artist Topics
-### Hobby Deve
+### Hobby Development
 
 ## Schedule
-**Monday:** 9AM-10AM **Jewelry 101**, 10AM - 11AM **Myst Game Dev**, 11am - 12pm **Game/Artist Topic 1**
-**Tuesday:** 9am - 10am **Active Paid Tutorial 1440**, 10am - 11am **Game/Artist Topic 2**
+**Sunday:** 9AM-10AM **Jewelry 101**, 10AM - 11AM **Myst Game Dev**, 11am - 12pm **Game/Artist Topic 1**
+**Tuesday:** 9am - 10am **Active Paid Tutorial 1440**, 10am - 11am **Hobby Dev**
 **Wednesday:** 9AM-10AM **Jewelry 101**, 10AM - 11AM **Myst Game Dev**, 11am - 12pm **Game/Artist Topic 1**
-**Thursday:** 9am - 10am **Active Paid Tutorial 1440**, 10am - 11am **Game/Artist Topic 2**
 **Friday:** 9AM-10AM **Jewelry 101**, 10AM - 11AM **Myst Game Dev**, 11am - 12pm **Game/Artist Topic 1**
-
+**Saturday:** 9am - 10am **Active Paid Tutorial 1440**, 10am - 11am **Hobby Dev**
 ## Jewelry 101/Job Hunting Goals
 ### Jewelry 101
 ```dataview

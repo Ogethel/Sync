@@ -6,7 +6,7 @@ tags: [ToDo, Backlog, Hobbies]
 --- 
 ## Mini Figures
 ### Designing
-- [ ] Make a Funnel design for filtering resin 📆2023-01-19
+- [x] Make a Funnel design for filtering resin 📆2023-01-19 ✅ 2023-01-19
 - [ ] Print the Funnel Design 📆2023-01-25
 ### Printing
 - [x] Print Spencer the Monster Owl 📆2022-10-20

@@ -64,12 +64,12 @@ tags: [ToDo, Backlog, Home]
 ## House
 - [x] Get shelving pegs 📆2023-01-17 ✅ 2023-01-16
 - [x] Get a stripped screw hole repair kit 📆2023-01-17 ✅ 2023-01-16
-- [ ] Get a box of Matches 📆2023-01-21
-- [ ] Use Matches to Fix the Stripped Holes in Doors 📆2023-01-21
+- [x] Get a box of Matches 📆2023-01-21 ✅ 2023-01-21
+- [x] Use Matches to Fix the Stripped Holes in Doors 📆2023-01-21 ✅ 2023-01-21
 - [ ] Clean the Carpet
-	- [ ] Assemble and Test the Sprayer 📆2023-01-19
-	- [ ] Soak the carpet 📆2023-01-19
-	- [ ] Dry the carpet 📆2023-01-19
+	- [x] Assemble and Test the Sprayer 📆2023-01-19 ✅ 2023-01-21
+	- [x] Soak the carpet 📆2023-01-19 ✅ 2023-01-21
+	- [x] Dry the carpet 📆2023-01-19 ✅ 2023-01-21
 	- [ ] paint the wood and concrete 📆2023-01-21
 	- [ ] lay down new pad 📆2023-01-21
 - [ ] layout Geordie's new bathroom 📆2023-01-21

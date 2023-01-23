@@ -163,9 +163,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60d62b5a9c6b558d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -273,9 +281,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -284,7 +290,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +306,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +324,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,8 +383,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6f72979286354cf",
+  "active": "60d62b5a9c6b558d",
   "lastOpenFiles": [
+    "0-Clutter/Notes/Daily/2023-01-22.md",
     "0-Clutter/Notes/Daily/2023-01-19.md",
     "Projects/Tasks/Backlogs/BL_Home.md",
     "0-Clutter/Notes/Daily/2023-01-18.md",
@@ -390,7 +394,6 @@
     "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
     "0-Clutter/Notes/Daily/2023-01-17.md",
     "Canvas/New Year Resolution 2023.canvas",
-    "0-Clutter/Notes/Daily/2023-01-16.md",
-    "0-Clutter/Notes/Daily/2023-01-15.md"
+    "0-Clutter/Notes/Daily/2023-01-16.md"
   ]
 }

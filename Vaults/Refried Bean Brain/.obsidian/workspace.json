@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md"
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md"
               }
             }
           },
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,8 +380,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cddbe98e2f37d222",
+  "active": "b6f72979286354cf",
   "lastOpenFiles": [
+    "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
     "0-Clutter/Notes/Daily/2023-01-19.md",
     "0-Clutter/Notes/Daily/2023-01-20.md",
     "0-Clutter/Notes/Daily/2023-01-21.md",
@@ -390,7 +391,6 @@
     "Data/Airbrush Links.md",
     "SLA Casting Resin.md",
     "Projects/Tasks/Backlogs/BL_Home.md",
-    "0-Clutter/Notes/Daily/2023-01-18.md",
-    "Projects/Tasks/Backlogs/BL_Career.md"
+    "0-Clutter/Notes/Daily/2023-01-18.md"
   ]
 }

@@ -53,12 +53,12 @@ tags: [ToDo, Backlog, Home]
 - [x] Finish outlining my new year's Goals 📆2023-01-16 ✅ 2023-01-16
 - [x] Pay the HOA 📆2023-01-18 ✅ 2023-01-18
 - [ ] dust the blinds 📆2023-01-22
-- [ ] vacuum house 📆2023-01-22
+- [x] vacuum house 📆2023-01-22 ✅ 2023-02-01
 - [ ] mop 📆2023-01-22
 - [ ] clean the main floor bathroom 📆2023-01-22
-- [ ] clean up holiday presents 📆
-- [ ] finish dishes 📆2023-01-28
-- [ ] finish laundry 📆2023-01-28
+- [x] clean up holiday presents 📆 ✅ 2023-02-01
+- [x] finish dishes 📆2023-01-28 ✅ 2023-02-01
+- [x] finish laundry 📆2023-01-28 ✅ 2023-02-01
 
 
 ## House
@@ -66,12 +66,12 @@ tags: [ToDo, Backlog, Home]
 - [x] Get a stripped screw hole repair kit 📆2023-01-17 ✅ 2023-01-16
 - [x] Get a box of Matches 📆2023-01-21 ✅ 2023-01-21
 - [x] Use Matches to Fix the Stripped Holes in Doors 📆2023-01-21 ✅ 2023-01-21
-- [ ] Clean the Carpet
+- [x] Clean the Carpet ✅ 2023-02-01
 	- [x] Assemble and Test the Sprayer 📆2023-01-19 ✅ 2023-01-21
 	- [x] Soak the carpet 📆2023-01-19 ✅ 2023-01-21
 	- [x] Dry the carpet 📆2023-01-19 ✅ 2023-01-21
-	- [ ] paint the wood and concrete 📆2023-01-21
-	- [ ] lay down new pad 📆2023-01-21
+	- [x] paint the wood and concrete 📆2023-01-21 ✅ 2023-02-01
+	- [x] lay down new pad 📆2023-01-21 ✅ 2023-02-01
 - [ ] layout Geordie's new bathroom 📆2023-01-21
 - [ ] design the closet shelves
 	- [ ] Bedroom

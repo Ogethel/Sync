@@ -65,7 +65,7 @@
                 "file": "Canvas/New Year Resolution 2023.canvas",
                 "viewState": {
                   "x": 194.84234631369375,
-                  "y": -1212.7005197392436,
+                  "y": -1505.1012108341538,
                   "zoom": -0.6526440997997984,
                   "snapToGrid": false
                 }
@@ -95,9 +95,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd872700b2b0cc5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Clutter/Notes/Daily/2023-02-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "7380ba77a25e81a8",
@@ -110,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_HUB.md",
+                "file": "BL_Crystal-Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,8 +200,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Games/Warframe/Warframe - Info HUB.md"
+                "file": "BL_Crystal-Tower.md"
               }
             }
           },
@@ -308,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Games/Warframe/Warframe - Info HUB.md",
+                "file": "BL_Crystal-Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +336,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Games/Warframe/Warframe - Info HUB.md",
+                "file": "BL_Crystal-Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Games/Warframe/Warframe - Info HUB.md",
+                "file": "BL_Crystal-Tower.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,17 +415,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1aea9baf47bbab",
+  "active": "e83796268a76e29c",
   "lastOpenFiles": [
-    "Data/Airbrush Links.md",
-    "Notion Markdown Export Test.md",
-    "0-Clutter/Notes/Daily/2023-01-19.md",
+    "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Projects/Dashboards/D-Past Due & No Date.md",
+    "Data/Code Ninjas/HUB-Code Ninjas.md",
+    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
+    "Projects/Tasks/Backlogs/BL_Jewelry.md",
+    "0-Clutter/Notes/Daily/2023-02-01.md",
+    "Canvas/New Year Resolution 2023.canvas",
+    "Projects/Dashboards/D-Jewelry.md",
     "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
-    "0-Clutter/Notes/Daily/2023-01-20.md",
-    "0-Clutter/Notes/Daily/2023-01-21.md",
-    "0-Clutter/Notes/Daily/2023-01-23.md",
-    "0-Clutter/Notes/Daily/2023-01-22.md",
-    "SLA Casting Resin.md",
-    "Projects/Tasks/Backlogs/BL_Home.md"
+    "Data/Games/Warframe/Warframe - Info HUB.md"
   ]
 }

@@ -6,7 +6,13 @@ tags: [ToDo, Backlog, CrystalTower]
 ---
 ## Planning
 ### General
-- [ ] Post Crystal Designs 
+
+- [ ] Make a Video for Project Management
+	- [ ] Record Workflow Video 
+	- [ ] Edit Video
+	- [ ] Preshow Video to Brandon
+	- [ ] Revise Video
+	- [ ] Post Video on Discord
 
 ### Game Mechanics
 ### Story Concepts
@@ -18,6 +24,8 @@ tags: [ToDo, Backlog, CrystalTower]
 
 # 2D Asset Production
 ## Concept Art
+- [ ] Post Crystal Designs 📆2023-02-02
+- [ ] Give Feedback on Golem Designs 📆2023-02-02
 ## Illustration
 
 # 3D Asset Production

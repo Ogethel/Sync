@@ -146,7 +146,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Sources/Scriptures/D&C-76.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "mode": "source",
                 "source": false
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Sources/Scriptures/D&C-76.md"
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md"
               }
             }
           },
@@ -344,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Sources/Scriptures/D&C-76.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Sources/Scriptures/D&C-76.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Sources/Scriptures/D&C-76.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -442,6 +442,7 @@
   },
   "active": "83f277f4d16f0b9a",
   "lastOpenFiles": [
+    "Religion/Sources/Scriptures/D&C-76.md",
     "Religion/Sources/Scripture Project/TC-Section 69.md",
     "0-Clutter/Notes/Daily/2023-01-23.md",
     "BL_Crystal-Tower.md",
@@ -450,7 +451,6 @@
     "Data/Code Ninjas/HUB-Code Ninjas.md",
     "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
     "Projects/Tasks/Backlogs/BL_Jewelry.md",
-    "0-Clutter/Notes/Daily/2023-02-01.md",
-    "Canvas/New Year Resolution 2023.canvas"
+    "0-Clutter/Notes/Daily/2023-02-01.md"
   ]
 }

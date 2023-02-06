@@ -129,6 +129,18 @@
             }
           },
           {
+            "id": "3fcd04b1b4877b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10d60b28540d76c4",
             "type": "leaf",
             "state": {
@@ -200,7 +212,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BL_Crystal-Tower.md"
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md"
               }
             }
           },
@@ -319,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BL_Crystal-Tower.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BL_Crystal-Tower.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BL_Crystal-Tower.md",
+                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -415,8 +428,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e83796268a76e29c",
+  "active": "3fcd04b1b4877b26",
   "lastOpenFiles": [
+    "BL_Crystal-Tower.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
     "Projects/Dashboards/D-Past Due & No Date.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",
@@ -425,7 +439,6 @@
     "0-Clutter/Notes/Daily/2023-02-01.md",
     "Canvas/New Year Resolution 2023.canvas",
     "Projects/Dashboards/D-Jewelry.md",
-    "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
-    "Data/Games/Warframe/Warframe - Info HUB.md"
+    "Projects/Dashboards/D-Spring 2023-Continuing Education.md"
   ]
 }

@@ -141,6 +141,18 @@
             }
           },
           {
+            "id": "83f277f4d16f0b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Sources/Scriptures/D&C-76.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10d60b28540d76c4",
             "type": "leaf",
             "state": {
@@ -213,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md"
+                "file": "Religion/Sources/Scriptures/D&C-76.md"
               }
             }
           },
@@ -332,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Religion/Sources/Scriptures/D&C-76.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Religion/Sources/Scriptures/D&C-76.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Religion/Sources/Scriptures/D&C-76.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -428,8 +440,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3fcd04b1b4877b26",
+  "active": "83f277f4d16f0b9a",
   "lastOpenFiles": [
+    "Religion/Sources/Scripture Project/TC-Section 69.md",
+    "0-Clutter/Notes/Daily/2023-01-23.md",
     "BL_Crystal-Tower.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
     "Projects/Dashboards/D-Past Due & No Date.md",
@@ -437,8 +451,6 @@
     "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
     "Projects/Tasks/Backlogs/BL_Jewelry.md",
     "0-Clutter/Notes/Daily/2023-02-01.md",
-    "Canvas/New Year Resolution 2023.canvas",
-    "Projects/Dashboards/D-Jewelry.md",
-    "Projects/Dashboards/D-Spring 2023-Continuing Education.md"
+    "Canvas/New Year Resolution 2023.canvas"
   ]
 }

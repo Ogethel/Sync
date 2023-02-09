@@ -151,9 +151,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3d0926d59b5f18b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -261,9 +269,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Canvas/Unity AI - Behaviour Tree.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -272,7 +278,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +294,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +312,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -368,8 +371,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7bea0416be77465a",
+  "active": "f3d0926d59b5f18b",
   "lastOpenFiles": [
+    "Canvas/Unity AI - Behaviour Tree.canvas",
     "Data/Coding/Unity/Unity-AI Dev.md",
     "Data/Coding/Unreal/Unreal-AI Dev.md",
     "Notion Markdown Export Test.md",
@@ -378,7 +382,6 @@
     "Projects/Nanowrimo/Phaeros.md",
     "Data/Airbrush Links.md",
     "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Data/Code Ninjas/HUB-Code Ninjas.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md"
+    "Data/Code Ninjas/HUB-Code Ninjas.md"
   ]
 }

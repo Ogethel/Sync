@@ -130,7 +130,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Unity AI.canvas",
+                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Unity AI.canvas"
+                "file": "Canvas/Unity AI - Behaviour Tree.canvas"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Unity AI.canvas",
+                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Unity AI.canvas",
+                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas/Unity AI.canvas",
+                "file": "Canvas/Unity AI - Behaviour Tree.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

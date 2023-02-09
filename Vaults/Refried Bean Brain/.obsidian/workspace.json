@@ -9,18 +9,6 @@
         "dimension": 49.846860643185295,
         "children": [
           {
-            "id": "89f4175a13b1636a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Jewelry/Casting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "594473b9cf519200",
             "type": "leaf",
             "state": {
@@ -57,34 +45,6 @@
             }
           },
           {
-            "id": "e90b084d528013a3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/New Year Resolution 2023.canvas",
-                "viewState": {
-                  "x": 194.84234631369375,
-                  "y": -1505.1012108341538,
-                  "zoom": -0.6526440997997984,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "b6f72979286354cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2023-01-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cddbe98e2f37d222",
             "type": "leaf",
             "state": {
@@ -95,21 +55,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd872700b2b0cc5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "7380ba77a25e81a8",
@@ -122,31 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BL_Crystal-Tower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fcd04b1b4877b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83f277f4d16f0b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Projects/Tasks/Backlogs/BL_HUB.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,24 +113,48 @@
             }
           },
           {
-            "id": "661b2b1d0d8aeb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Airbrush Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d1aea9baf47bbab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Data/Games/Warframe/Warframe - Info HUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bea0416be77465a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Coding/Unity/Unity-AI Dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d0803c8be7e2dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Coding/Unreal/Unreal-AI Dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce18ce3e8b4fb1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Passwords.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -334,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md"
+                "file": "Data/Passwords.md"
               }
             }
           },
@@ -344,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Data/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Data/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Sources/Scripture Project/TC-Section 69.md",
+                "file": "Data/Passwords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -440,17 +388,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83f277f4d16f0b9a",
+  "active": "ce18ce3e8b4fb1e6",
   "lastOpenFiles": [
-    "Religion/Sources/Scriptures/D&C-76.md",
-    "Religion/Sources/Scripture Project/TC-Section 69.md",
-    "0-Clutter/Notes/Daily/2023-01-23.md",
-    "BL_Crystal-Tower.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Projects/Dashboards/D-Past Due & No Date.md",
+    "Data/Coding/Unreal/Unreal-AI Dev.md",
+    "Data/Coding/Unity/Unity-AI Dev.md",
+    "Data/Games/Warframe/Warframe - Info HUB.md",
+    "Projects/Nanowrimo/Phaeros.md",
+    "Data/Airbrush Links.md",
+    "Projects/Punball App/Punball-App-DesignDoc.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",
-    "Projects/Tasks/Backlogs/BL-Immortal-Mysts.md",
-    "Projects/Tasks/Backlogs/BL_Jewelry.md",
-    "0-Clutter/Notes/Daily/2023-02-01.md"
+    "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Religion/Sources/Scripture Project/TC-Section 69.md",
+    "BL_Crystal-Tower.md"
   ]
 }

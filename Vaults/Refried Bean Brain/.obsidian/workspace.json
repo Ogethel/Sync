@@ -128,35 +128,15 @@
             "id": "7bea0416be77465a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data/Coding/Unity/Unity-AI Dev.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d0803c8be7e2dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Coding/Unreal/Unreal-AI Dev.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce18ce3e8b4fb1e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Passwords.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/Unity AI.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -173,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Passwords.md"
+                "file": "Canvas/Unity AI.canvas"
               }
             }
           },
@@ -292,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Passwords.md",
+                "file": "Canvas/Unity AI.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Passwords.md",
+                "file": "Canvas/Unity AI.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Passwords.md",
+                "file": "Canvas/Unity AI.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -388,17 +368,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce18ce3e8b4fb1e6",
+  "active": "7bea0416be77465a",
   "lastOpenFiles": [
-    "Data/Coding/Unreal/Unreal-AI Dev.md",
     "Data/Coding/Unity/Unity-AI Dev.md",
+    "Data/Coding/Unreal/Unreal-AI Dev.md",
+    "Notion Markdown Export Test.md",
+    "Data/Passwords.md",
     "Data/Games/Warframe/Warframe - Info HUB.md",
     "Projects/Nanowrimo/Phaeros.md",
     "Data/Airbrush Links.md",
     "Projects/Punball App/Punball-App-DesignDoc.md",
     "Data/Code Ninjas/HUB-Code Ninjas.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Religion/Sources/Scripture Project/TC-Section 69.md",
-    "BL_Crystal-Tower.md"
+    "Projects/Tasks/Backlogs/BL_HUB.md"
   ]
 }

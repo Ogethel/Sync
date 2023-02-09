@@ -156,8 +156,12 @@
             "id": "f3d0926d59b5f18b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data/Coding/Unity/Unity - Patroling Script.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -269,7 +273,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data/Coding/Unity/Unity - Patroling Script.md"
+              }
             }
           },
           {
@@ -278,6 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data/Coding/Unity/Unity - Patroling Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,6 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data/Coding/Unity/Unity - Patroling Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,6 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Data/Coding/Unity/Unity - Patroling Script.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

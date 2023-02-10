@@ -12,6 +12,7 @@ public class Patrol : MonoBehaviour
 
 	private float _waitTime = 1f; // In seconds
 	private float _waitCounter = 0f;
+	private bool _waiting = false;
 
 	private void Update()
 	{

@@ -19,6 +19,8 @@ public class Patrol : MonoBehaviour
 		Transform wp = waypoints[_currentWaypointIndex];
 		if (Vector3.Distance(transform.position, wp.position) < 0.01f)
 		{
+			transform.postion = wp.position;
+			
 			_currentWaypointIndex = (_currentWaypointIndex + 1) % waypoints.Length;
 		}
 		else

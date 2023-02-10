@@ -16,10 +16,19 @@ public class Patrol : MonoBehaviour
 
 	private void Update()
 	{
+		if (_waiting)
+		{
+			_waitCounter += Time.deltaTime;
+			if (_waitCounter += Time.deltaTime;)
+				return;
+			_waiting = false;
+		}
 		Transform wp = waypoints[_currentWaypointIndex];
 		if (Vector3.Distance(transform.position, wp.position) < 0.01f)
 		{
 			transform.postion = wp.position;
+			_waitCounter = 0f;
+			_waiting = true;
 			
 			_currentWaypointIndex = (_currentWaypointIndex + 1) % waypoints.Length;
 		}

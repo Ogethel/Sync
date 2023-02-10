@@ -10,10 +10,21 @@ public class Patrol : MonoBehaviour
 	private int _currentWaypointIndex;
 	private float _speed = 2f;
 
+	private float _waitTime = 1f; // In seconds
+	private float _waitCounter = 0f;
+
 	private void Update()
 	{
 		Transform wp = waypoints[_currentWaypointIndex];
-		if (Vector3.Distance(transform.position, wp.position) < 0.)
+		if (Vector3.Distance(transform.position, wp.position) < 0.01f)
+		{
+			_currentWaypointIndex = (_currentWaypointIndex + 1) % waypoints.Length;
+		}
+		else
+		{
+			transform.position = Vector3.MoveTowards(transform.position, wp.position, _speed * Time.deltaTime);
+			transform.LookAt(wp.position);
+		}
 	}
 }
 ```

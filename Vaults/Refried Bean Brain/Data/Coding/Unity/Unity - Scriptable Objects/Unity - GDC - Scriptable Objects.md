@@ -1,4 +1,4 @@
-
+[Link](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
 
 ## Runtime Sets
 
@@ -53,3 +53,17 @@ namespace michaelbean.example.codeSet
 **Shortcomings**
 - Have to change in code
 - Difficult to remove/reorder
+- Can't hold additional data
+
+## Generic Systems
+System is ScriptableObject Asset in project
+Reference directly with inspector
+No code lookup
+No scene-only references
+Like AudioMixer/AudioMixerGroup
+
+### Inventory
+ScriptableObject Master List
+ScriptableObject per item
+Use different inventories in different scenes
+

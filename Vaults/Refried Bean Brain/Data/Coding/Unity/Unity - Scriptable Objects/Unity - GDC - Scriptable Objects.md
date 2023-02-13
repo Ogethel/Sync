@@ -1,4 +1,14 @@
 [Link](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+Presented by Ryan Hipple
+
+## Modular Data
+```C#
+[CreateAssetMenu]
+public class FloatVAriable : ScriptableObject
+{
+	public float Va
+}
+```
 
 ## Runtime Sets
 

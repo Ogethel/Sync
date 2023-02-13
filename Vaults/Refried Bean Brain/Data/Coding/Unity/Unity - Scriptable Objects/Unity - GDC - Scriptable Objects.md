@@ -34,8 +34,22 @@ namespace michaelbean.example.codeSet
 
 		public void DisableAll()
 		{
-			for (int i )
+			for (int i = Set.Items.Count-1; i >= 0; i --)
+			{
+				Set.Items[i].gameObject.SetActive(false);
+			}
+		}
+		
+		public void DisableRandom()
+		{
+			int index = Random.Range(0, Set.Items.Count);
+			Set.Items[index].gameObject.SetActive(false);
 		}
 	}
 }
 ```
+
+## Enums
+**Shortcomings**
+- Have to change in code
+- Difficult to remove/reorder

@@ -26,5 +26,16 @@ Could be refactored to work on a mini map type project where enemies are stored 
 ```C#
 using UnityEngine;
 
-namespace 
+namespace michaelbean.example.codeSet
+{
+	public class ThingDisabler : Monobehaviour
+	{
+		public ThingRuntimeSet Set; //Scriptable object reference set in editor
+
+		public void DisableAll()
+		{
+			for (int i )
+		}
+	}
+}
 ```

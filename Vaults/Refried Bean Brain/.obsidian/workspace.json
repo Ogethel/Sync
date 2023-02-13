@@ -177,6 +177,18 @@
             }
           },
           {
+            "id": "7884f43e629ac478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f3d0926d59b5f18b",
             "type": "leaf",
             "state": {
@@ -189,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -298,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md"
+                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md"
               }
             }
           },
@@ -308,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,8 +416,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bfe1afaeea83df81",
+  "active": "7884f43e629ac478",
   "lastOpenFiles": [
+    "Religion/Scripture Thoughts/Sunday Meetings.md",
     "Data/Coding/Unity/Job Test Projects/TruGolf/Unity - TruGolf - Dev Test.md",
     "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
     "Canvas/Unity AI - Behaviour Tree.canvas",
@@ -414,7 +427,6 @@
     "Data/Coding/Unreal/Unreal-AI Dev.md",
     "Notion Markdown Export Test.md",
     "Data/Passwords.md",
-    "Data/Games/Warframe/Warframe - Info HUB.md",
-    "Projects/Nanowrimo/Phaeros.md"
+    "Data/Games/Warframe/Warframe - Info HUB.md"
   ]
 }

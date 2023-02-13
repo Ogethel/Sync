@@ -4,9 +4,9 @@ Presented by Ryan Hipple
 ## Modular Data
 ```C#
 [CreateAssetMenu]
-public class FloatVAriable : ScriptableObject
+public class FloatVariable : ScriptableObject
 {
-	public float Va
+	public float Value;
 }
 ```
 

@@ -189,18 +189,6 @@
             }
           },
           {
-            "id": "7884f43e629ac478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Clutter/Templates/Daily Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3d0926d59b5f18b",
             "type": "leaf",
             "state": {
@@ -213,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"

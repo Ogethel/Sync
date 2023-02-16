@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a207f29e59417f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "7380ba77a25e81a8",
@@ -182,7 +194,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
+                "file": "0-Clutter/Templates/Daily Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -310,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md"
+                "file": "0-Clutter/Notes/Daily/2023-02-16.md"
               }
             }
           },
@@ -320,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
+                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
+                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
+                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,8 +428,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7884f43e629ac478",
+  "active": "1a207f29e59417f2",
   "lastOpenFiles": [
+    "0-Clutter/Templates/Daily Note.md",
+    "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
     "Religion/Scripture Thoughts/Sunday Meetings.md",
     "Data/Coding/Unity/Job Test Projects/TruGolf/Unity - TruGolf - Dev Test.md",
     "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
@@ -425,8 +439,6 @@
     "Data/Coding/Unity/Unity-AI Dev.md",
     "Data/Coding/Unity/Unity - Patroling Script.md",
     "Data/Coding/Unreal/Unreal-AI Dev.md",
-    "Notion Markdown Export Test.md",
-    "Data/Passwords.md",
-    "Data/Games/Warframe/Warframe - Info HUB.md"
+    "Notion Markdown Export Test.md"
   ]
 }

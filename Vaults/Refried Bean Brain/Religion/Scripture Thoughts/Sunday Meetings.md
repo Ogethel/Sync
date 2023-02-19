@@ -27,6 +27,9 @@ After speaking for the first time, we decided to do month on each topic beginnin
 
 https://denversnuffer.com/2022/11/171-added-upon/#more-5574
 
+Soul = Spirit and Body
+https://www.josephsmithpapers.org/paper-summary/revelation-27-28-december-1832-dc-881-126/1#ft-source-note
+
 Scripture list:
 D&C 93: 11-14
 Alma 13: 1-3 & 3-5 & 4-8 & 9-11

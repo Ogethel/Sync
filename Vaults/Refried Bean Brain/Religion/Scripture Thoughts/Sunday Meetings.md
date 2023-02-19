@@ -86,4 +86,4 @@ I will tell you & hear it O Earth! God who sits in yonder heavens is a man like 
 ...What must a man do to commit the unpardonable sin they must receive the Holy Ghost have the heavens opened unto them, & know God, & then sin against him, this is the case with many [p. [138]] apostates in this Church they never seease to try to hurt me, they have got the same spirit the devil had
 ```
 
-God did not create
+God can not create nor destroy our spirit as we, like God, are eternal.  God then is called "Father" largely because of his role to us because He is in a position to offer us opportunities to be like Him. We see something in this that compels us to listen to His guidance and subject our will to his, otherwise we would not have come down here. Perhaps this is because we had examples of spirits, of souls, of Sons of God, of possibly even those occupying the position of Father who fell from their positions and wreaked havoc.  Perhaps we would like to a

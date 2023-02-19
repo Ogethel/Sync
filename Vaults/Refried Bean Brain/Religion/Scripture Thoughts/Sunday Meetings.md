@@ -29,6 +29,13 @@ https://denversnuffer.com/2022/11/171-added-upon/#more-5574
 
 Soul = Spirit and Body
 https://www.josephsmithpapers.org/paper-summary/revelation-27-28-december-1832-dc-881-126/1#ft-source-note
+```
+Now verily I say unto you, that through the redemption, which is made for you; is brought to pass the resurection from the dead; (and the spirit, and the body is the soul of man)
+
+[9](https://www.josephsmithpapers.org/paper-summary/revelation-27-28-december-1832-dc-881-126/1#7513767888150345893 "Note")
+
+and the resurection from the dead, is the redemption of the soul; and the redemption of the soul, is through him, who quickneth all things, in whose bosom, it is decreed, that the poor, and the meek of the earth, shall inherit it;
+```
 
 Scripture list:
 D&C 93: 11-14
@@ -78,3 +85,5 @@ I will tell you & hear it O Earth! God who sits in yonder heavens is a man like 
 
 ...What must a man do to commit the unpardonable sin they must receive the Holy Ghost have the heavens opened unto them, & know God, & then sin against him, this is the case with many [p. [138]] apostates in this Church they never seease to try to hurt me, they have got the same spirit the devil had
 ```
+
+God did not create

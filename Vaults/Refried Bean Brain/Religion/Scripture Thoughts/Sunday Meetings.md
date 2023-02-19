@@ -26,5 +26,9 @@ Firm mind = firm grasp
 After speaking for the first time, we decided to do month on each topic beginning with multiple mortalities
 
 Scripture list:
-D&C 93: 11
-Alma 13:3-5
+D&C 93: 11-14
+Alma 13: 1-3 & 3-5 & 4-8 & 9-11
+3 Nephi 11:11
+D&C 93: 7-14
+D&C 93: 2-7
+

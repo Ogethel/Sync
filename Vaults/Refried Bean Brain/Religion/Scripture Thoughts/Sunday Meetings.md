@@ -25,6 +25,8 @@ Firm mind = firm grasp
 
 After speaking for the first time, we decided to do month on each topic beginning with multiple mortalities
 
+https://denversnuffer.com/2022/11/171-added-upon/#more-5574
+
 Scripture list:
 D&C 93: 11-14
 Alma 13: 1-3 & 3-5 & 4-8 & 9-11
@@ -33,7 +35,7 @@ D&C 93: 7-14
 D&C 93: 2-7
 
 D&C 138: 55
-
+Abraham 3: 22-25
 
 Follett Discourse, Thomas Bullock
 ```
@@ -49,4 +51,9 @@ If I have the privilege could tell the story in such a manner as persecution wou
 [Br Rigdn [Sidney Rigdon]](https://www.josephsmithpapers.org/paper-summary/discourse-7-april-1844-as-reported-by-william-clayton/1#17888517702104999533 "Sidney Rigdon"))
 
 What did Jesus say— as the father hath had power in himself even so hath the son power. to do what why what the father did To lay down his body and took it up again. Jesus what are you going to do— to lay down my life as my father did that I might take it up again. If you deny it you deny the bible I defy the records and wisdom & all the combined powers of earth and hell to refute it. You have got to learn how to be a god yourself in order to save you[r]self— to be priests & Kings as all Gods has done— by going from a small degree to another from exaltation to ex[altation]— till they are able to sit in glory as doth those who sit enthroned. I want you to know while God is being proclaimed that he is not trifling with you nor me. 1st principles of consolation— how consoling to the mourner when calld to part with husband father wife child to know that those being shall rise in immortal glory to sorrow die nor suffer any more. & not only that to contemplate the saying they shall be heirs of God &c— What is it— to inherit the same glory power & exal[ta]tion with those who are gone— before— What did Jesus do— why I do the things that I saw the father do when worlds came into existens— I saw the father work out a kingdom with fear & trembling & I can do the same & when I get my k[ingdom] work I will present to the father & it will exalt his glory and Jesus steps into his tracts to inherit what God did before This is some of the first principles of the gospel about which so much hath been— You have got to find the beginning of the history & go on till you have learned the last— will be a great while before you learn the last. It is not all to be compreh[ende]d in this world.
+```
+
+Follett Discourse, Wilford Woodruff
+```
+I will tell you & hear it O Earth! God who sits in yonder heavens is a man like yourselves That GOD if you were to see him to day that holds the worlds you would see him like a man in form, like yourselves. Adam was [p. [134]] made in his image and talked with him, walk[ed] with him. In order to understand the dead for the consolation of those that mourn, I want you to understand God and how he comes to be God. We suppose that God was God from eternity, I will refute that Idea, or I will do away or take away the veil so you may see. It is the first principle to know that we may convers with him and that he once was man like us and the Father was once on an earth like us And I wish I was in a suitable place to tell it The scriptures inform us mark it that Jesus Christ said As the Father hath power in himself so hath the son power in himself to do what the father did even to lay down my body & take it up again do you believe it if not dont believe the bible I defy all Hell and earth to refute it. And you have got to learn how to make yourselves God, king and priest, by going from a small capacity to a great capacity to the resurrection of the dead, to dwelling in everlasting burnings, I want you to know the first principle of this law, how consoling to the mourner when they part with a friend to know that though they lay down this body it will rise & dwell with everlasting burnings to be an heir of God & joint heir of Jesus Christ enjoying the same rise exhaltation & glory untill you arive at the station of a God. What did Jesus Christ do the same thing as I se[e] the Father do see the father do what, work out a kingdom, when I do so to I will give to the father which will add to his glory, He will take a Higher exhaltation & I will take his place and am also exhalted. These are the first principles of the gospel. It will take a long time after the grave to understand the whole If I should say anything but what was in the bible the cry of treason would be herd I will then go to the bible, [p. [135]]
 ```

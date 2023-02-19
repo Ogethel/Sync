@@ -1,4 +1,5 @@
 Go over how we make God in our image. 
+[Article](https://www.pnas.org/doi/pdf/10.1073/pnas.0908374106)
 
 Go over my intentions
 
@@ -19,3 +20,11 @@ Moroni 7: 29-32
 32 And by so doing, the Lord God prepareth the way that the residue of men may have faith in Christ, that the Holy Ghost may have place in their hearts, according to the power thereof; and after this manner bringeth to pass the Father, the covenants which he hath made unto the children of men.
 
 Firm mind = firm grasp
+
+---
+
+After speaking for the first time, we decided to do month on each topic beginning with multiple mortalities
+
+Scripture list:
+D&C 93: 11
+Alma 13:3-5

@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-16.md"
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md"
               }
             }
           },
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,10 +416,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1a207f29e59417f2",
+  "active": "bfe1afaeea83df81",
   "lastOpenFiles": [
-    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
     "0-Clutter/Notes/Daily/2023-02-16.md",
+    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
     "0-Clutter/Templates/Daily Note.md",
     "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
     "Religion/Scripture Thoughts/Sunday Meetings.md",

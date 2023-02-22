@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dashboards/D-HUB.md",
+                "file": "Projects/Tasks/Backlogs/BL_HUB.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,26 +74,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dashboards/D-Tic Stack Toe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f3f4390aca0af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Dashboards/D-Tic Stack Toe.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -298,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dashboards/D-HUB.md"
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md"
               }
             }
           },
@@ -308,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dashboards/D-HUB.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dashboards/D-HUB.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Dashboards/D-HUB.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,17 +392,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "576ee1fb145b3101",
+  "active": "51a2e918d6f00f18",
   "lastOpenFiles": [
+    "Projects/Dashboards/D-Tic Stack Toe.md",
+    "Projects/Punball App/Punball-App-DesignDoc.md",
+    "Unity Shader - Basic Demo.md",
+    "BL_Crystal-Tower.md",
+    "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
+    "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Projects/Dashboards/D-HUB.md",
     "Data/Coding/Unity/Unity - Patroling Script.md",
     "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
-    "Canvas/Unity AI - Behaviour Tree.canvas",
-    "Projects/Nanowrimo/Phaeros.md",
-    "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Data/Code Ninjas/HUB-Code Ninjas.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Data/Games/Warframe/Warframe - Info HUB.md",
-    "Data/Coding/Unity/Job Test Projects/TruGolf/Unity - TruGolf - Dev Test.md",
-    "Religion/Scripture Thoughts/Sunday Meetings.md"
+    "Canvas/Unity AI - Behaviour Tree.canvas"
   ]
 }

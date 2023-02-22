@@ -3,4 +3,5 @@
 # Current Project Links
 [[D-Jewelry]]
 [[Fall 2022 - Dashboard]]
+[[D-Tic Stack Toe]]
 

@@ -6,8 +6,8 @@ tags: [ToDo, Backlog, Home]
 ---
 ## Cars
 ### Obi
-- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2023-01-21
-- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2023-01-21
+- [ ] Buy a Head Cover Gasket ⌛2022-11-05 📆2023-02-24
+- [ ] Replace Head Cover Gasket ⌛2022-11-05 📆2023-02-25
 
 
 ### Marina
@@ -52,10 +52,10 @@ tags: [ToDo, Backlog, Home]
 - [x] Store run for Lunch 📆2023-01-16 ✅ 2023-01-16
 - [x] Finish outlining my new year's Goals 📆2023-01-16 ✅ 2023-01-16
 - [x] Pay the HOA 📆2023-01-18 ✅ 2023-01-18
-- [ ] dust the blinds 📆2023-01-22
+- [ ] dust the blinds 📆2023-03-04
 - [x] vacuum house 📆2023-01-22 ✅ 2023-02-01
-- [ ] mop 📆2023-01-22
-- [ ] clean the main floor bathroom 📆2023-01-22
+- [ ] mop 📆2023-02-25
+- [x] clean the main floor bathroom 📆2023-01-22
 - [x] clean up holiday presents 📆 ✅ 2023-02-01
 - [x] finish dishes 📆2023-01-28 ✅ 2023-02-01
 - [x] finish laundry 📆2023-01-28 ✅ 2023-02-01

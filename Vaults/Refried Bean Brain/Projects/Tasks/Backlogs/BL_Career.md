@@ -20,6 +20,10 @@ tags: [ToDo, Backlog, Career]
 	- [ ] Web Dev
 	- [ ] 3D Asset Creation
 	- [ ] Animation
+### Business Logo
+- [ ] Finish Model 📆2023-02-22
+- [ ] Experiment Materials 📆2023-02-22
+- [ ] Finalize Materials 📆2023-02-24
 ## Art
 - [x] Look at [[Sentient-Academy]] 📆2022-11-18
 ## Technical Artist
@@ -29,21 +33,21 @@ tags: [ToDo, Backlog, Career]
 - [x] Get through white belt 📆2022-11-10
 - [x] Get through yellow belt 📆2022-12-17
 - [x] Start Orange Belt 📆2022-12-17
-- [ ] Finish Orange Belt 📆2023-01-28
-- [ ] Install the proper version of Unity 📆2023-01-22
+- [x] Finish Orange Belt 📆2023-01-28
+- [x] Install the proper version of Unity 📆2023-01-22
 
 
 ## Coding
 ### Games
 #### Unity/C'#'
 - [ ] Finish [Tic Stack Toe](https://docs.google.com/document/d/1x-CE648kkCMC_0E6yblGk5N41zWmNkgR9W3FkKfyN78/edit?usp=sharing) Project Doc 📆2023-02-22
-- [ ] Implement a Behavior AI Tree 📆 
+- [ ] Implement a Behavior AI Tree 📆2023-02-24
 #### Unreal/C++
 ### Website
 - [x] Use Existing Code to Upload to GitPages ⌛2022-10-19 📆2022-10-22
-- [ ] Use Existing Contact Form Providers for Form ⌛2022-10-19 📆2023-01-28
-- [ ] Update Website with Resume Info ⌛2022-10-19 📆2022-12-22
-- [ ] Make a List of Improvements/Changes for Website 📆2022-12-10
+- [ ] Use Existing Contact Form Providers for Form ⌛2022-10-19 📆2023-02-28
+- [ ] Update Website with Resume Info ⌛2022-10-19 📆2023-02-26
+- [ ] Make a List of Improvements/Changes for Website 📆2023-03-10
 - [ ] Make Tasks for Updating Site
 
 ### Language Specific

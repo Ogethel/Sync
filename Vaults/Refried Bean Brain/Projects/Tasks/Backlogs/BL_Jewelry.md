@@ -36,12 +36,12 @@ tags: [ToDo, Backlog, Jewelry]
 - [ ] Clean up
 
 ### Paxtons Ring
-- [ ] Make base ring form [[Paxton and Maryn Rings]] 📆2023-02-07
+- [ ] Make base ring form [[Paxton and Maryn Rings]] 📆2023-02-25
 - [ ] Schedule/Reschedule Tasks 📆2023-02-07
-- [ ] Play with shapes [[Paxton and Maryn Rings]] 📆2023-02-07
+- [ ] Play with shapes [[Paxton and Maryn Rings]] 📆2023-02-26
 ## Jenice's Pendant 
 ## Skull Arrowhead
-- [ ] Sculpt [[Skull-Arrowhead]] 1 hr 📆2022-12-09
+- [ ] Sculpt [[Skull-Arrowhead]] 1 hr 📆2023--09
 - [x] Start Blocking out the Main Shape
 - [ ] Finish Blocking out the Main Shape
 - [ ] Finish Secondary Details

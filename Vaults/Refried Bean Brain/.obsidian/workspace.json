@@ -62,14 +62,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Tasks/Backlogs/BL_Career.md",
+                "file": "Projects/Tasks/Backlogs/BL_Jewelry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "7380ba77a25e81a8",
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md"
+                "file": "Projects/Tasks/Backlogs/BL_Jewelry.md"
               }
             }
           },
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+                "file": "Projects/Tasks/Backlogs/BL_Jewelry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+                "file": "Projects/Tasks/Backlogs/BL_Jewelry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+                "file": "Projects/Tasks/Backlogs/BL_Jewelry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,17 +416,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cddbe98e2f37d222",
+  "active": "576ee1fb145b3101",
   "lastOpenFiles": [
-    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
-    "Projects/Tasks/Backlogs/BL_Career.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Projects/Tasks/Backlogs/BL_Home.md",
+    "Projects/Tasks/Backlogs/BL_Career.md",
+    "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
     "Projects/Dashboards/D-Past Due & No Date.md",
     "0-Clutter/Notes/Daily/2023-02-22.md",
-    "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
     "0-Clutter/Notes/Daily/2023-02-16.md",
     "Religion/Scripture Thoughts/R-ST-Metephor-Darkness.md",
-    "Religion/Scripture Thoughts/Sunday Meetings.md",
-    "0-Clutter/Templates/Daily Note.md"
+    "Religion/Scripture Thoughts/Sunday Meetings.md"
   ]
 }

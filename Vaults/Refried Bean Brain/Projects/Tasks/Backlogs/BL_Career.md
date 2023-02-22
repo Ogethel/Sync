@@ -36,6 +36,8 @@ tags: [ToDo, Backlog, Career]
 ## Coding
 ### Games
 #### Unity/C'#'
+- [ ] Finish [Tic Stack Toe](https://docs.google.com/document/d/1x-CE648kkCMC_0E6yblGk5N41zWmNkgR9W3FkKfyN78/edit?usp=sharing) Project Doc 📆2023-02-22
+- [ ] Implement a Behavior AI Tree 📆 
 #### Unreal/C++
 ### Website
 - [x] Use Existing Code to Upload to GitPages ⌛2022-10-19 📆2022-10-22

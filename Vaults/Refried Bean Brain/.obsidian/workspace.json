@@ -57,19 +57,19 @@
             }
           },
           {
-            "id": "1a207f29e59417f2",
+            "id": "576ee1fb145b3101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-16.md",
+                "file": "Projects/Tasks/Backlogs/BL_Career.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7380ba77a25e81a8",
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md"
+                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md"
               }
             }
           },
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,17 +416,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bfe1afaeea83df81",
+  "active": "cddbe98e2f37d222",
   "lastOpenFiles": [
-    "0-Clutter/Notes/Daily/2023-02-16.md",
     "Projects/Jewelry Production/Paxton and Maryn Rings.md",
-    "0-Clutter/Templates/Daily Note.md",
-    "Data/Coding/Unity/Unity - Scriptable Objects/Unity - GDC - Scriptable Objects.md",
+    "Projects/Tasks/Backlogs/BL_Career.md",
+    "Projects/Tasks/Backlogs/BL_HUB.md",
+    "Projects/Dashboards/D-Past Due & No Date.md",
+    "0-Clutter/Notes/Daily/2023-02-22.md",
+    "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+    "0-Clutter/Notes/Daily/2023-02-16.md",
+    "Religion/Scripture Thoughts/R-ST-Metephor-Darkness.md",
     "Religion/Scripture Thoughts/Sunday Meetings.md",
-    "Data/Coding/Unity/Job Test Projects/TruGolf/Unity - TruGolf - Dev Test.md",
-    "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
-    "Canvas/Unity AI - Behaviour Tree.canvas",
-    "Data/Coding/Unity/Unity-AI Dev.md",
-    "Data/Coding/Unity/Unity - Patroling Script.md"
+    "0-Clutter/Templates/Daily Note.md"
   ]
 }

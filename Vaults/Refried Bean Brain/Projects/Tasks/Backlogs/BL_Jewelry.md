@@ -13,7 +13,8 @@ tags: [ToDo, Backlog, Jewelry]
 # One Offs
 
 ## Christmas
-- [ ] Design 3 Unisex Pendants
+- [ ] Design 3 Unisex Pendants 
+- [ ] Pick 3 Designs for Pendants 📆2023-02-22
 - [ ] Sculpt Pendant 1
 - [ ] Sculpt Pendant 2
 - [ ] Sculpt Pendant 3
@@ -41,7 +42,7 @@ tags: [ToDo, Backlog, Jewelry]
 - [ ] Play with shapes [[Paxton and Maryn Rings]] 📆2023-02-26
 ## Jenice's Pendant 
 ## Skull Arrowhead
-- [ ] Sculpt [[Skull-Arrowhead]] 1 hr 📆2023--09
+- [ ] Sculpt [[Skull-Arrowhead]] 1 hr 📆2023-02-23
 - [x] Start Blocking out the Main Shape
 - [ ] Finish Blocking out the Main Shape
 - [ ] Finish Secondary Details

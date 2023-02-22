@@ -3,13 +3,18 @@
 
 # Project Overview
 
-## Summary:
-
+### Summary:
 Completely reproduce the Tic Stack Toe game in Unity.  At a high level this includes basic VR functionality of being able to move and interact with objects; The ability to place Xs and Os on a 4x4 grid with the ability to stack; Check win function that checks if there is a four in a row; Multiplayer; An AI system for playing against in the case that local or multiplayer is unavailable.
 
-### **Submission should include:**  
-- Zip File containing the Unity Project. It should be ready to build and run.  
-- Comments about how you obtained the solution and overcame some of the complexity. Let us  know how long you spent on the task.  
+### Stretch Goals:
+- Develop a world/setting to play in
+- Develop a single player campaign
+### **Finished Game Should Include:**  
+
+- A Build that is bug free and uploaded to Itch.io and/or Steam
+- Well documented assets and scripts that I can add to a Unity repo on github that can serve as a starting point for future projects
+- Comments about how you obtained the solution and overcame some of the complexity.
+- Document how long I spent on the project for future reference.
 
 ### **Basic Functionality**  
 - User fires a projectile (subject to physics, not simply a vector)  

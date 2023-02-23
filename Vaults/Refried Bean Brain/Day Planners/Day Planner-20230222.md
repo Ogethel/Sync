@@ -19,7 +19,7 @@ status:
 - [x] 09:30 Read Scriptures
 - [x] 10:00 Game Dev
 - [x] 11:00 Pendant
-- [ ] 21:30 Record Journal
+- [x] 21:30 Record Journal
 - [ ] 22:00 END
 
 ---

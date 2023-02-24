@@ -50,6 +50,9 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 
 - #### **Levels (Generic)**  
 	- **A player primitive**  
+		- Art; Head & Hands mapped to correct gestures
+		- Able to Teleport, Pick up/Place Objects/Manipulate the Gameboard
+		- 
 		- This is where the projectile originates from  
 		- This never needs to move—it’s just representational.  
 		- (Changes to Angle/Direction/Velocity do not need to be reflected in the look or position of the player primitive.)  

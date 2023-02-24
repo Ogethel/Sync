@@ -50,14 +50,20 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 
 - #### **Levels (Generic)**  
 	- **A player primitive**  
-		- Art; Head & Hands mapped to correct gestures
+		- Art; Head & Hands mapped to correct gestures, Stretch-Skins
 		- Able to Teleport, Pick up/Place Objects/Manipulate the Gameboard
-		- 
-		- This is where the projectile originates from  
-		- This never needs to move—it’s just representational.  
-		- (Changes to Angle/Direction/Velocity do not need to be reflected in the look or position of the player primitive.)  
-		- Two Units tall and 0.5 Units wide  
-	- **Projectile**  
+		- Local and Online Multiplayer compatible
+	- **Interactable/Gameboard Logic**  
+		- Art; 1 Board, 2 Game Pieces, Stretch-Skins
+		- **Board**
+			- Should be in a Central Location
+			- Thematic for the level (1800s, Sci-fi, etc.)
+			- **Game Logic**
+				- Understand where each piece is
+				- Check for valid moves
+				- Check for Win conditions
+				- Display Widget for valid moves
+		- **X-Game Piece**
 		- Use a primitive to represent the projectile  
 		- The projectile should leave a tracer behind it.  
 		- Direction and velocity will be determined by the player  

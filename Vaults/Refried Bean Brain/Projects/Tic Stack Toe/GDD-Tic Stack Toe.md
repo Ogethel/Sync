@@ -51,7 +51,7 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 - #### **Levels (Generic)**  
 	- **A player primitive**  
 		- Art; Head & Hands mapped to correct gestures, Stretch-Skins
-		- Camera S
+		- Camera Spawned at Head Height
 		- Able to Teleport, Pick up/Place Objects/Manipulate the Gameboard
 		- Local and Online Multiplayer compatible
 	- **Interactable/Gameboard Logic**  
@@ -73,15 +73,20 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 			- Same as X-Game Piece
 		- **Skins**
 			- 1-12 Game Piece Skins?
-	- **NPC primitive**  
-		- The NPC should consistently start from a location in front and to the side of the player primitive.  
-			- 40 Units in front of the “player primitive”  
-			- 5 Units to the side  
-		- Size: One Unit Square  
-		- The NPC Starts moving when the user fires the projectile.
-		- Must move at a fixed rate of speed  
-		- It should intersect the projectile in flight, if possible—not simply follow and overtake it.  
-		- The NPC leaves a tracer in its wake.  
+	- **AI Behavior**  
+		- Art; AI should have at least a color distinction from normal players
+		- Procedural Animation
+			- Arc is calculated from the rest position to Game Piece Spawn location
+			- Arc is calculated from Game Piece Spawn to square AI would like to move to
+		- Behaviour Tree
+			- Turn Begin/Calculate Move
+			- Take Turn/Place Piece State
+			- Turn End State
+			- Idle State
+			- Win Game State
+			- Loose Game State
+		- C
+
 	- **Game Camera**  
 		- Game Camera Needs to capture all the action:  
 			- The origination of the shot (“player primitive”)  

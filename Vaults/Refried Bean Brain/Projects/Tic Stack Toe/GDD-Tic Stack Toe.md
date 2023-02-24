@@ -108,19 +108,18 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 	- **Level Flow**  
 		- X-Player begins and places piece
 		- O-Player then takes their turn and the cycle repeats
-		- On 
-		- You can choose whatever interface design you like...does not need to be fancy  
-		- Launch Angle  
-		- (“zero” launch angle would be horizontal)  
-		- Launch Direction  
-		- (“zero” direction would be “straight forward”)  
-		- Launch Velocity  
-		- A button simply called “Fire”—that fires the projectile.  
-			- User MUST select Angle / Direction / Velocity before the FIRE button becomes active/selectable.  
-			- A single projectile.  
+		- On Turn Change, notification will display briefly as well as a in world visual clue 
+		- Players may pause at anytime
+			- For Online matches, leaving the game must be accompanied by a short message selected prior to quitting
+		- Once a Player has won, the table will display options
+			- Play Again
+			- Back to Main Menu
+			- Back to Multiplayer HUB
+			- Quit Application
 	- **Turn Timer (When Set/In Campaign)**  
-		- The Timer counts up in Seconds (1,2,3...)  
-		- Points are tied to the Timer. Every Second is worth a point. (Example: 5 seconds = 5 points)  
+		- When Selected, a Turn Timer will be displayed in game
+		- When a Player's time reaches 0, a random spot on the board will be selected and play passed to the opposing player
+		- 3 Missed Turns in a row will boot you from an online match
 - #### **Level 1**  
 	- NPC moves at 15 Units per second  
 	- Launch Angle: User can enter an angle between 10 and 85 degrees  

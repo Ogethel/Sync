@@ -121,29 +121,14 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 		- When a Player's time reaches 0, a random spot on the board will be selected and play passed to the opposing player
 		- 3 Missed Turns in a row will boot you from an online match
 - #### **Level 1**  
-	- NPC moves at 15 Units per second  
-	- Launch Angle: User can enter an angle between 10 and 85 degrees  
-	- Launch Direction: User can enter an angle from -10 to +10 degrees  
-	- Launch Velocity: User can enter a Velocity of 1 to 80 (unit per second)  
+	- A Library like Room, fun interactable books
 - #### **Level 2**  
-	- NPC moves at 20 Units per second  
-	- Launch Angle: User can enter an angle between 25 and 75 degrees  
-	- Launch Direction: User can enter an angle from -30 to +30 degrees  
-	- Launch Velocity: User can enter a Velocity of 1 to 50 (unit per second)  
+	- Sci-fi Room, fun lights and sounds to engage with
 	
-### **How the “game” is played**  
-- **User Adjusts Angle / Direction / Velocity**  
-- **User Selects Fire**  
-	- The Projectile goes into motion  
-	- The NPC goes into motion  
-	- The Timer starts counting up in Seconds (1,2,3...)  
-	- When the NPC intersects with the Projectile.  
-		- All animation stops.  
-		- If the intersection happens in the air
-		- Across the Top of the screen, it will say “You Win X Points”  (Where “X” is the number of points (seconds) accrued)  
-		- If the intersection occurs on the ground  
-		- Across the Top of the screen, it will say “You Lose”  
-		- The screen will remain visible (with the text) for 5 seconds, and then return to the Main Men
+### **Additional Design Notes**  
+- **Target Demographic**
+	- Currently it is just me and Brandon
+	- (Need to research)
 
 # Visual Development Guide
 ## Gameplay

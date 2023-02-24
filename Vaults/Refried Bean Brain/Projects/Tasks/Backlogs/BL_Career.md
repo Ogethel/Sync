@@ -21,8 +21,8 @@ tags: [ToDo, Backlog, Career]
 	- [ ] 3D Asset Creation
 	- [ ] Animation
 ### Business Logo
-- [ ] Finish Model 📆2023-02-22
-- [ ] Experiment Materials 📆2023-02-22
+- [x] Finish Model 📆2023-02-22 ✅ 2023-02-23
+- [x] Experiment Materials 📆2023-02-22 ✅ 2023-02-23
 - [ ] Finalize Materials 📆2023-02-24
 ## Art
 - [x] Look at [[Sentient-Academy]] 📆2022-11-18
@@ -40,7 +40,7 @@ tags: [ToDo, Backlog, Career]
 ## Coding
 ### Games
 #### Unity/C'#'
-- [ ] Finish [Tic Stack Toe](https://docs.google.com/document/d/1x-CE648kkCMC_0E6yblGk5N41zWmNkgR9W3FkKfyN78/edit?usp=sharing) Project Doc 📆2023-02-22
+- [x] Finish [Tic Stack Toe](https://docs.google.com/document/d/1x-CE648kkCMC_0E6yblGk5N41zWmNkgR9W3FkKfyN78/edit?usp=sharing) Project Doc 📆2023-02-22 ✅ 2023-02-23
 - [ ] Implement a Behavior AI Tree 📆2023-02-24
 #### Unreal/C++
 ### Website

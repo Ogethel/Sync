@@ -20,7 +20,11 @@ status:
 [[Imps and Robo Robbers]]
 [[Punball-App-DesignDoc]]
 [[D-Crystal Tower]]
+[[D-Tic Stack Toe]]
 ### Active Projects
+#### Paxton's Ring
+[[Paxton and Maryn Rings]]
+#### Brandon's Pendant
 #### Work on Website
 [[T_Finish GitPages Website]]
 

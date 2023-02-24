@@ -9,7 +9,7 @@ tags: [ToDo, Backlog, VR, TicStackToe]
 # Administration/Personal Management
 ## Planning
 ### General
-- [ ] Finish Project Doc 📆2023-02-22
+- [x] Finish Project Doc 📆2023-02-22 ✅ 2023-02-23
 ### Game Mechanics
 ### Story Concepts
 

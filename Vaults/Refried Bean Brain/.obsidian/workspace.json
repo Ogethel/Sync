@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-23.md"
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md"
               }
             }
           },
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-23.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-23.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-23.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -392,11 +392,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "576ee1fb145b3101",
+  "active": "51a2e918d6f00f18",
   "lastOpenFiles": [
+    "0-Clutter/Notes/Daily/2023-02-23.md",
     "0-Clutter/Notes/Daily/2023-02-22.md",
     "0-Clutter/Templates/Daily Note.md",
-    "0-Clutter/Notes/Daily/2023-02-23.md",
     "2023-02-23.md",
     "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
     "Day Planners/Day Planner-20230222.md",

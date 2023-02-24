@@ -51,6 +51,7 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 - #### **Levels (Generic)**  
 	- **A player primitive**  
 		- Art; Head & Hands mapped to correct gestures, Stretch-Skins
+		- Camera S
 		- Able to Teleport, Pick up/Place Objects/Manipulate the Gameboard
 		- Local and Online Multiplayer compatible
 	- **Interactable/Gameboard Logic**  
@@ -64,11 +65,14 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 				- Check for Win conditions
 				- Display Widget for valid moves
 		- **X-Game Piece**
-		- Use a primitive to represent the projectile  
-		- The projectile should leave a tracer behind it.  
-		- Direction and velocity will be determined by the player  
-		- 0.25, 0.25,0.25 units in size  
-		- Projectile starts at a height of ½ unit  
+			- Retrievable from a central location
+			- Capable of being realistically interacted with (Stacked to pass time, knocked over, etc.)
+			- Is only placed on board when released while widget active
+				- Either player can move spawned extra pieces, but only the X player may place X pieces on the board
+		- **O-Game Piece**
+			- Same as X-Game Piece
+		- **Skins**
+			- 1-12 Game Piece Skins?
 	- **NPC primitive**  
 		- The NPC should consistently start from a location in front and to the side of the player primitive.  
 			- 40 Units in front of the “player primitive”  

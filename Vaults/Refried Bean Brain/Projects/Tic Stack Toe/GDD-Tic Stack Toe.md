@@ -31,9 +31,22 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 -   Main Menu 
 	-   Game Mode
 		-   Single Player
+			- Main Menu
+				- Session Settings
+					- Adjust Settings
+					- Play
 		-   Local Multiplayer
+			- Main Menu
+			- Session Settings
+				- Adjust Settings
+				- Play
 		-   Online Multiplayer
+			- Main Menu
+			- Session Settings
+				- Adjust Settings
+				- Play
 		-   SG (Stretch Goal) - Campaign 
+			- Mission Select
 	-   How to Play
 		-   Slideshow
 		-   Tutorial Level
@@ -85,15 +98,17 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 			- Idle State
 			- Win Game State
 			- Loose Game State
-		- C
-
+		- Clear Debugs should be used for testing
 	- **Game Camera**  
 		- Game Camera Needs to capture all the action:  
 			- The origination of the shot (“player primitive”)  
 			- The NPC origination location  
 			- To the intersection of the projectile and NPC  
 		- A three-quarter view (not horizontal or top-down)  
-	- **Three user input fields across the bottom; These determine the direction and velocity of the Projectile**  
+	- **Level Flow**  
+		- X-Player begins and places piece
+		- O-Player then takes their turn and the cycle repeats
+		- On 
 		- You can choose whatever interface design you like...does not need to be fancy  
 		- Launch Angle  
 		- (“zero” launch angle would be horizontal)  
@@ -103,7 +118,7 @@ Completely reproduce the Tic Stack Toe game in Unity.  At a high level this inc
 		- A button simply called “Fire”—that fires the projectile.  
 			- User MUST select Angle / Direction / Velocity before the FIRE button becomes active/selectable.  
 			- A single projectile.  
-	- **A visible Timer**  
+	- **Turn Timer (When Set/In Campaign)**  
 		- The Timer counts up in Seconds (1,2,3...)  
 		- Points are tied to the Timer. Every Second is worth a point. (Example: 5 seconds = 5 points)  
 - #### **Level 1**  

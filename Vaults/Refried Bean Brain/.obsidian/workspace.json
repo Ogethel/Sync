@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Topics/Second Comforter.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Clutter/Notes/Daily/2023-02-23.md",
+                "file": "0-Clutter/Notes/Daily/2023-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "7380ba77a25e81a8",
@@ -286,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md"
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md"
               }
             }
           },
@@ -296,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
+                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -392,17 +391,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51a2e918d6f00f18",
+  "active": "594473b9cf519200",
   "lastOpenFiles": [
-    "0-Clutter/Notes/Daily/2023-02-23.md",
+    "Religion/Topics/Second Comforter.md",
     "0-Clutter/Notes/Daily/2023-02-22.md",
+    "0-Clutter/Notes/Daily/2023-02-23.md",
+    "0-Clutter/Notes/Daily/2023-02-26.md",
+    "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
     "0-Clutter/Templates/Daily Note.md",
     "2023-02-23.md",
-    "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
     "Day Planners/Day Planner-20230222.md",
     "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Projects/Dashboards/D-Tic Stack Toe.md",
-    "Projects/Punball App/Punball-App-DesignDoc.md",
-    "Unity Shader - Basic Demo.md"
+    "Projects/Dashboards/D-Tic Stack Toe.md"
   ]
 }

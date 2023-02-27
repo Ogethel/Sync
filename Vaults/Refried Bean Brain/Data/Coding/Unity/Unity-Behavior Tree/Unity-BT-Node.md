@@ -111,7 +111,27 @@ namespace ALS_BehaviorTree
 	{
 		public override NodeState Evaluate()
 		{
-			return base.Evaluate();
+			bool anyChildIsRunning = false;
+			
+			foreach (Node node in children)
+			{
+				switch (node.Evaluate())
+				{
+					case NodeState.FAILURE:
+						state = NodeState.FAILURE;
+						return state;
+					case NodeState.SUCCESS:
+						continue;
+					case NodeState.RUNNING:
+						anyChildIsRunning = true;
+						continue;
+					default:
+						state = NodeState.SUCCESS;
+						return state;
+				}
+			}
+
+			state = 
 		}
 	}
 

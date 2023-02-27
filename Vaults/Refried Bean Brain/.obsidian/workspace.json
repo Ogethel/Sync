@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md"
+                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md"
               }
             }
           },
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religion/Scripture Thoughts/Sunday Meetings.md",
+                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,8 +391,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "594473b9cf519200",
+  "active": "7b4afa385221645f",
   "lastOpenFiles": [
+    "Religion/Scripture Thoughts/Sunday Meetings.md",
     "Religion/Topics/Second Comforter.md",
     "0-Clutter/Notes/Daily/2023-02-22.md",
     "0-Clutter/Notes/Daily/2023-02-23.md",
@@ -401,7 +402,6 @@
     "0-Clutter/Templates/Daily Note.md",
     "2023-02-23.md",
     "Day Planners/Day Planner-20230222.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md",
-    "Projects/Dashboards/D-Tic Stack Toe.md"
+    "Projects/Tasks/Backlogs/BL_HUB.md"
   ]
 }

@@ -174,3 +174,16 @@ namespace ALS_BehaviorTree
 	}
 }
 ```
+
+```C#
+using ALS_BehaviorTree;
+
+public class TaskPatrol : Node
+{
+	public TaskPatrol
+	public override NodeSate Evaluate()
+	{
+		return base.Evaluate();
+	}
+}
+```

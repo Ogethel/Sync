@@ -79,3 +79,11 @@ namespace ALS_BehaviorTree
 	}
 }
 ```
+
+```C#
+namespace ALS_BehaviorTree
+{
+	public clas
+}
+
+```

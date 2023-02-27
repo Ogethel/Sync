@@ -1,25 +1,33 @@
 
 ```C#
-public class Node
+namespace ALS_BehaviorTree
 {
-	public bool ClearData(string key)
+	public enum NodeState
 	{
-		if (_dataContext.ContainsKey(key))
+	
+	}
+	
+	public class Node
+	{
+		public bool ClearData(string key)
 		{
-		_dataContext.Remove(key);
-		return true;
-		}
-		
-		Node node = parent;
-		
-		while (node != null)
-		{
-			bool cleared = node.ClearData(key);
-			if (cleared)
+			if (_dataContext.ContainsKey(key))
+			{
+			_dataContext.Remove(key);
 			return true;
-			node = node.parent;
+			}
+			
+			Node node = parent;
+			
+			while (node != null)
+			{
+				bool cleared = node.ClearData(key);
+				if (cleared)
+				return true;
+				node = node.parent;
+			}
+			return false;
 		}
-		return false;
 	}
 }
 ```

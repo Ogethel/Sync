@@ -103,3 +103,17 @@ namespace ALS_BehaviorTree
 }
 
 ```
+
+```C#
+namespace ALS_BehaviorTree
+{
+	public class Sequence : Node
+	{
+		public override NodeState Evaluate()
+		{
+			return base.Evaluate();
+		}
+	}
+
+}
+```

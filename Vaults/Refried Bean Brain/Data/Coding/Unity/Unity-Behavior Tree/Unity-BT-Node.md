@@ -35,7 +35,27 @@ namespace ALS_BehaviorTree
 		
 		public virtual NodeState Evaluate() => NodeState.FAILURE;
 		
-		public void SetDate
+		public void SetData(string key, object value)
+		{
+			_dataContext[key] = value;
+		}
+		
+		public object GetData(string key)
+		{
+			object value = null;
+			if (_dataContext.TryGetValue(key, out value))
+				return value;
+				
+			Node node = parent;
+			while (node != null)
+			{
+				value = node.GetData(key);
+				if (value != null)
+					return value;
+				node = node.parent;
+			}
+			return null;
+		}
 
 		public bool ClearData(string key)
 		{

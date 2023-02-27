@@ -27,7 +27,7 @@ namespace ALS_BehaviorTree
 				_Attach(child);
 		}
 		
-		private vodi _Attach(Node node)
+		private void _Attach(Node node)
 		{
 			node.parent = this;
 			children.Add(node);

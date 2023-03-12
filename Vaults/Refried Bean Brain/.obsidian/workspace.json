@@ -80,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7380ba77a25e81a8",
@@ -285,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md"
+                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md"
               }
             }
           },
@@ -295,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
+                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
+                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
+                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,17 +392,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b4afa385221645f",
+  "active": "166591e1fc956bec",
   "lastOpenFiles": [
+    "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
+    "Projects/Dashboards/D-Jewelry.md",
+    "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",
     "Religion/Scripture Thoughts/Sunday Meetings.md",
     "Religion/Topics/Second Comforter.md",
     "0-Clutter/Notes/Daily/2023-02-22.md",
     "0-Clutter/Notes/Daily/2023-02-23.md",
     "0-Clutter/Notes/Daily/2023-02-26.md",
     "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
-    "0-Clutter/Templates/Daily Note.md",
-    "2023-02-23.md",
-    "Day Planners/Day Planner-20230222.md",
-    "Projects/Tasks/Backlogs/BL_HUB.md"
+    "0-Clutter/Templates/Daily Note.md"
   ]
 }

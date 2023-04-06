@@ -33,6 +33,16 @@
             }
           },
           {
+            "id": "eb2a0b871e7690d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "0e6a357f6276d9d4",
             "type": "leaf",
             "state": {
@@ -81,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7380ba77a25e81a8",
@@ -146,8 +156,7 @@
                 "viewState": {
                   "x": 0,
                   "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
+                  "zoom": 0
                 }
               }
             }
@@ -392,8 +401,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "166591e1fc956bec",
+  "active": "eb2a0b871e7690d1",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230405.md",
     "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
     "Projects/Dashboards/D-Jewelry.md",
     "Data/Coding/Unity/Unity-Behavior Tree/Unity-BT-Node.md",

@@ -33,16 +33,6 @@
             }
           },
           {
-            "id": "eb2a0b871e7690d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
             "id": "0e6a357f6276d9d4",
             "type": "leaf",
             "state": {
@@ -91,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "7380ba77a25e81a8",
@@ -295,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md"
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md"
               }
             }
           },
@@ -305,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,7 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Jewelry Production/Paxton and Maryn Rings.md",
+                "file": "Projects/Tic Stack Toe/GDD-Tic Stack Toe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -401,8 +391,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb2a0b871e7690d1",
+  "active": "51a2e918d6f00f18",
   "lastOpenFiles": [
+    "Projects/Jewelry Production/Paxton and Maryn Rings.md",
     "Day Planners/Day Planner-20230405.md",
     "Projects/Dashboards/D-Spring 2023-Continuing Education.md",
     "Projects/Dashboards/D-Jewelry.md",
